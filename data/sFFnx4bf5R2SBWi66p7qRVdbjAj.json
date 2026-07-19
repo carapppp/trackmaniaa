@@ -1,0 +1,1926 @@
+{
+  "tops": [
+    {
+      "player": {
+        "name": "SkandeaR",
+        "id": "c1e8bbec-8bb3-40b3-9b0e-52e3cb36015e",
+        "zone": {
+          "id": "301e5fea-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Namur",
+          "flag": "Namur",
+          "parent": {
+            "id": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Belgium",
+            "flag": "BEL",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "SkandeaR",
+            "youtube": "UC_bcenbeO3Z0sO3H9RbPS6Q",
+            "twitter": "SkandeaR"
+          }
+        }
+      },
+      "position": 1,
+      "time": 60743,
+      "score": 60743,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_c1e8bbec-8bb3-40b3-9b0e-52e3cb36015e_(1'0''74).replay.gbx",
+      "timestamp": "2026-07-06T13:28:16+00:00",
+      "url": "/api/download/ghost/e3283392-34e0-496c-85d2-2a4228e6d895"
+    },
+    {
+      "player": {
+        "name": "Lkr_bolle_eoc",
+        "tag": "$S$F50NED",
+        "id": "48e1489b-57d0-4fb4-b2c9-8e6e21827e8e",
+        "zone": {
+          "id": "30209e41-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Zuid-Holland",
+          "flag": "Zuid-Holland",
+          "parent": {
+            "id": "302094fd-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Netherlands",
+            "flag": "NED",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 2,
+      "time": 60986,
+      "score": 60986,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_48e1489b-57d0-4fb4-b2c9-8e6e21827e8e_(1'0''98).replay.gbx",
+      "timestamp": "2026-07-05T19:53:18+00:00",
+      "url": "/api/download/ghost/7176c748-3229-4629-a016-87bf9b0f819a"
+    },
+    {
+      "player": {
+        "name": "MW.Raistlin",
+        "tag": "$60D¬$666МW$60D» ",
+        "id": "722dc711-0f2b-4bdd-88fa-23ee1eff4c50",
+        "zone": {
+          "id": "301e73a7-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Quebec",
+          "flag": "Quebec",
+          "parent": {
+            "id": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Canada",
+            "flag": "CAN",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 3,
+      "time": 61007,
+      "score": 61007,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_722dc711-0f2b-4bdd-88fa-23ee1eff4c50_(1'1''0).replay.gbx",
+      "timestamp": "2026-07-03T01:40:11+00:00",
+      "url": "/api/download/ghost/eac5b9f4-d2dd-438c-bc62-c8d96b71d397"
+    },
+    {
+      "player": {
+        "name": "nsc-Ferry-eoc",
+        "tag": "$S$F50NED",
+        "id": "20018df1-3812-4a90-97e8-5980826a63be",
+        "zone": {
+          "id": "30209e41-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Zuid-Holland",
+          "flag": "Zuid-Holland",
+          "parent": {
+            "id": "302094fd-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Netherlands",
+            "flag": "NED",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 4,
+      "time": 61021,
+      "score": 61021,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_20018df1-3812-4a90-97e8-5980826a63be_(1'1''2).replay.gbx",
+      "timestamp": "2026-07-07T18:57:00+00:00",
+      "url": "/api/download/ghost/ae706bf2-9460-4026-9f95-0d7107e233b5"
+    },
+    {
+      "player": {
+        "name": "Morhpeo",
+        "tag": "$S$900¬$666MW$900»$FFF",
+        "id": "be3b63cc-98b6-4ed6-a8d7-b772f10ff371",
+        "zone": {
+          "id": "301fa6e4-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Moselle",
+          "flag": "Moselle",
+          "parent": {
+            "id": "301fa0c0-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Grand Est",
+            "flag": "grand-est",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 5,
+      "time": 61281,
+      "score": 61281,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_be3b63cc-98b6-4ed6-a8d7-b772f10ff371_(1'1''28).replay.gbx",
+      "timestamp": "2026-07-01T14:38:29+00:00",
+      "url": "/api/download/ghost/c8095917-d28b-497e-b4e4-ae30cffd1aee"
+    },
+    {
+      "player": {
+        "name": "G0LI0",
+        "tag": "$S$139NYX ",
+        "id": "480ef761-7829-420b-9205-971db7e50a26",
+        "zone": {
+          "id": "301fb4a0-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Orne",
+          "flag": "Orne",
+          "parent": {
+            "id": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Normandie",
+            "flag": "normandie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 6,
+      "time": 61284,
+      "score": 61284,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_480ef761-7829-420b-9205-971db7e50a26_(1'1''28).replay.gbx",
+      "timestamp": "2026-06-29T15:03:32+00:00",
+      "url": "/api/download/ghost/05d03fed-d53a-4c19-9c98-1597dcee0a7c"
+    },
+    {
+      "player": {
+        "name": "AsunooTM",
+        "tag": "$135¬$666МW$C93»",
+        "id": "feffaa6e-6c98-4c96-b23a-c66164c0d961",
+        "zone": {
+          "id": "301fade2-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Seine-et-Marne",
+          "flag": "Seine-et-Marne",
+          "parent": {
+            "id": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Île-de-France",
+            "flag": "ile-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 7,
+      "time": 61403,
+      "score": 61403,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_feffaa6e-6c98-4c96-b23a-c66164c0d961_(1'1''40).replay.gbx",
+      "timestamp": "2026-06-28T23:20:12+00:00",
+      "url": "/api/download/ghost/3fbf262e-33bf-40bf-9a5e-20aacd9e4206"
+    },
+    {
+      "player": {
+        "name": "carapp",
+        "tag": "$I$FDBES$FEDCA$000.",
+        "id": "7a2c71ba-3515-4394-8994-87983c53768b",
+        "zone": {
+          "id": "301fec4d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Maine-et-Loire",
+          "flag": "Maine-et-Loire",
+          "parent": {
+            "id": "301feb1f-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Pays-de-la-Loire",
+            "flag": "Pays-de-la-Loire",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 8,
+      "time": 61576,
+      "score": 61576,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_7a2c71ba-3515-4394-8994-87983c53768b_(1'1''57).replay.gbx",
+      "timestamp": "2026-07-09T12:46:26+00:00",
+      "url": "/api/download/ghost/9b2977b1-f9c1-4ed4-9e33-7f9925e9bb18"
+    },
+    {
+      "player": {
+        "name": "Quentin43",
+        "tag": "$S$C00NYX ",
+        "id": "a7727f7a-1d32-4a47-b14e-184a83e7e138",
+        "zone": {
+          "id": "301f6e6d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Haute-Loire",
+          "flag": "Haute-Loire",
+          "parent": {
+            "id": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Auvergne-Rhône-Alpes",
+            "flag": "auvergne-rhone-alpes",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 9,
+      "time": 61591,
+      "score": 61591,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_a7727f7a-1d32-4a47-b14e-184a83e7e138_(1'1''59).replay.gbx",
+      "timestamp": "2026-06-29T21:38:02+00:00",
+      "url": "/api/download/ghost/74c845a8-a047-47c0-a6eb-20ab2321fbaf"
+    },
+    {
+      "player": {
+        "name": "YannexTM",
+        "tag": "$S$A0C",
+        "id": "a98c34ef-5896-417b-bdfe-35c8ed25c4bc",
+        "zone": {
+          "id": "30228b49-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Fribourg",
+          "flag": "Fribourg",
+          "parent": {
+            "id": "30228733-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Switzerland",
+            "flag": "SUI",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "vanity": "yannex",
+          "profile": {
+            "twitch": "yannex",
+            "youtube": "Yannex",
+            "twitter": "YannexTM"
+          }
+        }
+      },
+      "position": 10,
+      "time": 61736,
+      "score": 61736,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_a98c34ef-5896-417b-bdfe-35c8ed25c4bc_(1'1''73).replay.gbx",
+      "timestamp": "2026-07-12T13:11:41+00:00",
+      "url": "/api/download/ghost/883e143d-32b2-41ff-8819-d708d302dc84"
+    },
+    {
+      "player": {
+        "name": "TecksoTM",
+        "tag": "$I$FDBES$FEDCA$000.",
+        "id": "e5c09419-e727-4740-bd53-cff58a6aba80",
+        "zone": {
+          "id": "301f9a60-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Indre-et-Loire",
+          "flag": "Indre-et-Loire",
+          "parent": {
+            "id": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Centre-Val de Loire",
+            "flag": "centre-val-de-loire",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "TecksoTM",
+            "youtube": "UCzdn4rcs5mGtVkcponqPUxw",
+            "twitter": "TecksoTM"
+          }
+        }
+      },
+      "position": 11,
+      "time": 61757,
+      "score": 61757,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_e5c09419-e727-4740-bd53-cff58a6aba80_(1'1''75).replay.gbx",
+      "timestamp": "2026-07-12T10:17:33+00:00",
+      "url": "/api/download/ghost/bf696ca2-6fe4-4f61-9707-d98e5ac14638"
+    },
+    {
+      "player": {
+        "name": "PokeuuuTM",
+        "tag": "$I$FDBES$FEDCA$000.",
+        "id": "33b85e4e-76d3-4ddd-a55b-98c7fbfab8af",
+        "zone": {
+          "id": "301f95b1-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Côtes-d'Armor",
+          "flag": "Cotes-d'Armor",
+          "parent": {
+            "id": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bretagne",
+            "flag": "Bretagne",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 12,
+      "time": 61807,
+      "score": 61807,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_33b85e4e-76d3-4ddd-a55b-98c7fbfab8af_(1'1''80).replay.gbx",
+      "timestamp": "2026-06-28T22:26:59+00:00",
+      "url": "/api/download/ghost/494c0724-787b-489a-84f6-728128b836f9"
+    },
+    {
+      "player": {
+        "name": "Natuss.",
+        "tag": "$S$139NYX ",
+        "id": "0a253017-912f-4fc7-9472-55f8f4fcd464",
+        "zone": {
+          "id": "301fb16d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Calvados",
+          "flag": "Calvados",
+          "parent": {
+            "id": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Normandie",
+            "flag": "normandie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "NatussTM"
+          }
+        }
+      },
+      "position": 13,
+      "time": 61929,
+      "score": 61929,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_0a253017-912f-4fc7-9472-55f8f4fcd464_(1'1''92).replay.gbx",
+      "timestamp": "2026-07-07T20:25:06+00:00",
+      "url": "/api/download/ghost/b67ee261-8529-4265-ad07-53bb933e69b8"
+    },
+    {
+      "player": {
+        "name": "KevinStrike_Tm",
+        "tag": "$S$000¬$666MW$000»$I$FFF",
+        "id": "652069fa-48df-4d58-b0c9-d686ef445103",
+        "zone": {
+          "id": "301fde16-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Haute-Garonne",
+          "flag": "Haute-Garonne",
+          "parent": {
+            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Occitanie",
+            "flag": "occitanie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 14,
+      "time": 61947,
+      "score": 61947,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_652069fa-48df-4d58-b0c9-d686ef445103_(1'1''94).replay.gbx",
+      "timestamp": "2026-07-04T10:34:56+00:00",
+      "url": "/api/download/ghost/d9996dc3-dfab-479d-8a04-bce1fba224ef"
+    },
+    {
+      "player": {
+        "name": "Firestorrm_tm",
+        "tag": "$S$I$W$C00OKBOI",
+        "id": "679c132e-637f-4960-99d3-026345bbd947",
+        "zone": {
+          "id": "302015a3-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Köln",
+          "flag": "Koln",
+          "parent": {
+            "id": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Nordrhein-Westfalen",
+            "flag": "nordrhein-westfalen",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 15,
+      "time": 62174,
+      "score": 62174,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_679c132e-637f-4960-99d3-026345bbd947_(1'2''17).replay.gbx",
+      "timestamp": "2026-07-12T09:34:59+00:00",
+      "url": "/api/download/ghost/3dea89a7-276b-4661-bc2d-8b500b3c823e"
+    },
+    {
+      "player": {
+        "name": "FateTM.",
+        "tag": "$I$FDBES$FEDCA$000.",
+        "id": "732aea96-6aee-43d5-9b57-d5e130d6a837",
+        "zone": {
+          "id": "301f75d1-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Rhône",
+          "flag": "Rhone",
+          "parent": {
+            "id": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Auvergne-Rhône-Alpes",
+            "flag": "auvergne-rhone-alpes",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "FateTM2"
+          }
+        }
+      },
+      "position": 16,
+      "time": 62259,
+      "score": 62259,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_732aea96-6aee-43d5-9b57-d5e130d6a837_(1'2''25).replay.gbx",
+      "timestamp": "2026-07-11T14:48:29+00:00",
+      "url": "/api/download/ghost/f3fae5b9-019a-4eb2-8f1b-ce5901a883f6"
+    },
+    {
+      "player": {
+        "name": "Nopix.",
+        "tag": "$60Fヽ$FFFΛ$60Fゝ",
+        "id": "c4c7b097-7bec-4b27-a990-7b3e327db8c2",
+        "zone": {
+          "id": "301ff322-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Hautes-Alpes",
+          "flag": "Hautes-Alpes",
+          "parent": {
+            "id": "301ff0a1-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Provence-Alpes-Côte d'Azur",
+            "flag": "PACA",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "nopixtm",
+            "youtube": "@nopix6946"
+          }
+        }
+      },
+      "position": 17,
+      "time": 62296,
+      "score": 62296,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_c4c7b097-7bec-4b27-a990-7b3e327db8c2_(1'2''29).replay.gbx",
+      "timestamp": "2026-07-10T14:20:26+00:00",
+      "url": "/api/download/ghost/4adf97bc-f1ef-4d9d-8b02-f3ccf0b3e772"
+    },
+    {
+      "player": {
+        "name": "Mokuura",
+        "tag": "$1AE$OSKY",
+        "id": "dc3dd04e-b4a7-42ab-aaa0-2dcfe6114fc1",
+        "zone": {
+          "id": "301fde16-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Haute-Garonne",
+          "flag": "Haute-Garonne",
+          "parent": {
+            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Occitanie",
+            "flag": "occitanie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 18,
+      "time": 62304,
+      "score": 62304,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_dc3dd04e-b4a7-42ab-aaa0-2dcfe6114fc1_(1'2''30).replay.gbx",
+      "timestamp": "2026-06-29T17:58:10+00:00",
+      "url": "/api/download/ghost/cb04f6d5-1bcc-4e55-9ea6-6e5c55c15fca"
+    },
+    {
+      "player": {
+        "name": "BayronTM",
+        "tag": "$I$S$080UNITY",
+        "id": "e50288e3-43ef-45cd-98ee-4531d10a4a11",
+        "zone": {
+          "id": "301fdfdd-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Hautes-Pyrénées",
+          "flag": "Hautes-Pyrenees",
+          "parent": {
+            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Occitanie",
+            "flag": "occitanie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 19,
+      "time": 62504,
+      "score": 62504,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_e50288e3-43ef-45cd-98ee-4531d10a4a11_(1'2''50).replay.gbx",
+      "timestamp": "2026-07-16T15:42:58+00:00",
+      "url": "/api/download/ghost/755557c8-bce1-4e33-969c-895f2b57a945"
+    },
+    {
+      "player": {
+        "name": "Speedself",
+        "tag": "$FFFE$F00L$FFFINE",
+        "id": "fca45078-6ba6-4fd4-bcb6-329a72cbca05",
+        "zone": {
+          "id": "301fafaa-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Val-de-Marne",
+          "flag": "Val-de-Marne",
+          "parent": {
+            "id": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Île-de-France",
+            "flag": "ile-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "vanity": "speedself",
+          "sponsor": true,
+          "sponsorlevel": 1,
+          "profile": {
+            "twitch": "Speedself",
+            "youtube": "@Speedself",
+            "twitter": "Speedself"
+          }
+        }
+      },
+      "position": 20,
+      "time": 62505,
+      "score": 62505,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_fca45078-6ba6-4fd4-bcb6-329a72cbca05_(1'2''50).replay.gbx",
+      "timestamp": "2026-07-06T00:03:02+00:00",
+      "url": "/api/download/ghost/fb8c734a-57c2-4a12-b2cf-457a4aeca30c"
+    },
+    {
+      "player": {
+        "name": "Zetorate",
+        "tag": "$I$S$080UNITY",
+        "id": "e5010c91-a796-4f80-adb1-630e00eed5bf",
+        "zone": {
+          "id": "301fc70e-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Gironde",
+          "flag": "Gironde",
+          "parent": {
+            "id": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Nouvelle-Aquitaine",
+            "flag": "nouvelle-aquitaine",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 21,
+      "time": 62552,
+      "score": 62552,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_e5010c91-a796-4f80-adb1-630e00eed5bf_(1'2''55).replay.gbx",
+      "timestamp": "2026-07-12T12:34:23+00:00",
+      "url": "/api/download/ghost/0ea2e226-0b93-4959-be5b-bcbd63986ff5"
+    },
+    {
+      "player": {
+        "name": "Lueces",
+        "id": "49531f2c-e449-49d2-98b7-b43633417654",
+        "zone": {
+          "id": "301fad4a-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Paris",
+          "flag": "Paris",
+          "parent": {
+            "id": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Île-de-France",
+            "flag": "ile-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 22,
+      "time": 62989,
+      "score": 62989,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_49531f2c-e449-49d2-98b7-b43633417654_(1'2''98).replay.gbx",
+      "timestamp": "2026-07-08T09:16:52+00:00",
+      "url": "/api/download/ghost/c850f03d-2e41-4738-9adc-1ca592899d24"
+    },
+    {
+      "player": {
+        "name": "YoG_",
+        "tag": "$I$S$080UNITY",
+        "id": "cd7c3bce-f1e7-4a2f-8799-225893a439ec",
+        "zone": {
+          "id": "301f6969-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Isère",
+          "flag": "Isere",
+          "parent": {
+            "id": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Auvergne-Rhône-Alpes",
+            "flag": "auvergne-rhone-alpes",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "youtube": "UClEajHWE4Yov8XQVh7jUeAA",
+            "twitter": "YoG0105"
+          }
+        }
+      },
+      "position": 23,
+      "time": 63418,
+      "score": 63418,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_cd7c3bce-f1e7-4a2f-8799-225893a439ec_(1'3''41).replay.gbx",
+      "timestamp": "2026-07-06T16:00:38+00:00",
+      "url": "/api/download/ghost/5e96f4ad-46f1-4e44-924a-66b2cb424124"
+    },
+    {
+      "player": {
+        "name": "Gawliet",
+        "tag": "$I$FDBES$FEDCA$000.",
+        "id": "967d3eac-8b0c-476b-9b1d-b9cb701e94bc",
+        "zone": {
+          "id": "301f816c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Côte-d'Or",
+          "flag": "Cote-d'Or",
+          "parent": {
+            "id": "301f7d37-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bourgogne-Franche-Comté",
+            "flag": "bourgogne-franche-comte",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 24,
+      "time": 63564,
+      "score": 63564,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_967d3eac-8b0c-476b-9b1d-b9cb701e94bc_(1'3''56).replay.gbx",
+      "timestamp": "2026-07-12T10:18:57+00:00",
+      "url": "/api/download/ghost/b780be8a-131d-4b04-9771-984d0b450f9c"
+    },
+    {
+      "player": {
+        "name": "SkyzenArt",
+        "tag": "$I$FDBES$FEDCA$000.",
+        "id": "ff911eb7-8c46-4d06-bd19-ece8199661e6",
+        "zone": {
+          "id": "301f9b8c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Loiret",
+          "flag": "Loiret",
+          "parent": {
+            "id": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Centre-Val de Loire",
+            "flag": "centre-val-de-loire",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 25,
+      "time": 63636,
+      "score": 63636,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_ff911eb7-8c46-4d06-bd19-ece8199661e6_(1'3''63).replay.gbx",
+      "timestamp": "2026-07-12T08:11:55+00:00",
+      "url": "/api/download/ghost/9d2b620a-f73c-4350-a390-4c3ce5e7afeb"
+    },
+    {
+      "player": {
+        "name": "DRAGONGT.",
+        "tag": "$FFF¬$F0CNB$FFF»",
+        "id": "e3257e92-e655-4248-b4b9-3e1fec3618ee",
+        "zone": {
+          "id": "301fac1b-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Essonne",
+          "flag": "Essonne",
+          "parent": {
+            "id": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Île-de-France",
+            "flag": "ile-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 26,
+      "time": 64014,
+      "score": 64014,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_e3257e92-e655-4248-b4b9-3e1fec3618ee_(1'4''1).replay.gbx",
+      "timestamp": "2026-07-04T14:46:13+00:00",
+      "url": "/api/download/ghost/916cd320-50e2-4836-827d-41445d633755"
+    },
+    {
+      "player": {
+        "name": "Saphire_13",
+        "tag": "$I$S$080UNITY",
+        "id": "eb0c3107-e3df-48a4-b2b3-929f0235f639",
+        "zone": {
+          "id": "301ff26c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Bouches-du-Rhône",
+          "flag": "Bouches-du-Rhone",
+          "parent": {
+            "id": "301ff0a1-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Provence-Alpes-Côte d'Azur",
+            "flag": "PACA",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 27,
+      "time": 64363,
+      "score": 64363,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_eb0c3107-e3df-48a4-b2b3-929f0235f639_(1'4''36).replay.gbx",
+      "timestamp": "2026-07-04T15:52:38+00:00",
+      "url": "/api/download/ghost/bbfe7607-77da-43a0-b56e-7366d739d6db"
+    },
+    {
+      "player": {
+        "name": "Yeager_4",
+        "tag": "$S$3B0NYX ",
+        "id": "0cfaebff-757f-4880-89b0-f5798131268d",
+        "zone": {
+          "id": "301f84ea-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Doubs",
+          "flag": "Doubs",
+          "parent": {
+            "id": "301f7d37-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bourgogne-Franche-Comté",
+            "flag": "bourgogne-franche-comte",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "Yeager_t4",
+            "youtube": "@yeager_4"
+          }
+        }
+      },
+      "position": 28,
+      "time": 64504,
+      "score": 64504,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_0cfaebff-757f-4880-89b0-f5798131268d_(1'4''50).replay.gbx",
+      "timestamp": "2026-07-09T12:09:48+00:00",
+      "url": "/api/download/ghost/feb53847-1c19-41c6-b73a-554fd292e3b5"
+    },
+    {
+      "player": {
+        "name": "Delaweed",
+        "tag": "$I$S$080UNITY",
+        "id": "3e1e7740-0180-48c8-b1d8-1948698fd379",
+        "zone": {
+          "id": "301facb6-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Hauts-de-Seine",
+          "flag": "Hauts-de-Seine",
+          "parent": {
+            "id": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Île-de-France",
+            "flag": "ile-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 29,
+      "time": 64961,
+      "score": 64961,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_3e1e7740-0180-48c8-b1d8-1948698fd379_(1'4''96).replay.gbx",
+      "timestamp": "2026-07-07T14:21:52+00:00",
+      "url": "/api/download/ghost/5f7cc314-b3bd-4a76-aa80-c6b2d52731ee"
+    },
+    {
+      "player": {
+        "name": "TriliSk_",
+        "tag": "$S$139NYX ",
+        "id": "94b20751-43e2-4302-a044-3efcf6d939fc",
+        "zone": {
+          "id": "301fec4d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Maine-et-Loire",
+          "flag": "Maine-et-Loire",
+          "parent": {
+            "id": "301feb1f-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Pays-de-la-Loire",
+            "flag": "Pays-de-la-Loire",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "TriliSk"
+          }
+        }
+      },
+      "position": 30,
+      "time": 65119,
+      "score": 65119,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_94b20751-43e2-4302-a044-3efcf6d939fc_(1'5''11).replay.gbx",
+      "timestamp": "2026-07-11T15:08:16+00:00",
+      "url": "/api/download/ghost/97462a47-7870-44c6-9619-423b6b10f7f8"
+    },
+    {
+      "player": {
+        "name": "Dlgger",
+        "tag": "$O$S$444GOLEM",
+        "id": "2b63e360-1b21-45c5-9943-fdfb47a24434",
+        "zone": {
+          "id": "301e5de0-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Hainaut",
+          "flag": "Hainaut",
+          "parent": {
+            "id": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Belgium",
+            "flag": "BEL",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 31,
+      "time": 65630,
+      "score": 65630,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_2b63e360-1b21-45c5-9943-fdfb47a24434_(1'5''63).replay.gbx",
+      "timestamp": "2026-07-12T07:55:04+00:00",
+      "url": "/api/download/ghost/df70d1cb-2e8f-4da4-a785-914146c146f9"
+    },
+    {
+      "player": {
+        "name": "Rastats",
+        "tag": "$S $0F06$G3$0F0",
+        "id": "f85820ca-7b64-4aea-b2dc-ce22621d4620",
+        "zone": {
+          "id": "301f742a-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Puy-de-Dôme",
+          "flag": "Puy-de-Dome",
+          "parent": {
+            "id": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Auvergne-Rhône-Alpes",
+            "flag": "auvergne-rhone-alpes",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "rastats",
+            "youtube": "UCLSepDEVlN_SKY6tQuOzxmg",
+            "twitter": "Rastats_"
+          }
+        }
+      },
+      "position": 32,
+      "time": 67494,
+      "score": 67494,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_f85820ca-7b64-4aea-b2dc-ce22621d4620_(1'7''49).replay.gbx",
+      "timestamp": "2026-07-12T10:05:27+00:00",
+      "url": "/api/download/ghost/bd7e7fd4-fc21-4edf-bece-3c77f3729bd5"
+    },
+    {
+      "player": {
+        "name": "Azoth03",
+        "id": "34c70bbd-dca7-4ce1-a73f-a1209798cfa0",
+        "zone": {
+          "id": "301f96de-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Ille-et-Vilaine",
+          "flag": "Ille-et-Vilaine",
+          "parent": {
+            "id": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Bretagne",
+            "flag": "Bretagne",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 33,
+      "time": 68145,
+      "score": 68145,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_34c70bbd-dca7-4ce1-a73f-a1209798cfa0_(1'8''14).replay.gbx",
+      "timestamp": "2026-07-12T09:46:29+00:00",
+      "url": "/api/download/ghost/baa81d89-77d2-4fcd-bb06-ca62f70fb92c"
+    },
+    {
+      "player": {
+        "name": "blackpulse..",
+        "tag": "$S$F90ULTII",
+        "id": "9cc209ec-8569-4643-b9e0-1546ed9231d1",
+        "zone": {
+          "id": "301fe5d0-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Tarn-et-Garonne",
+          "flag": "Tarn-et-Garonne",
+          "parent": {
+            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Occitanie",
+            "flag": "occitanie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "lordxelnevark"
+          }
+        }
+      },
+      "position": 34,
+      "time": 68523,
+      "score": 68523,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_9cc209ec-8569-4643-b9e0-1546ed9231d1_(1'8''52).replay.gbx",
+      "timestamp": "2026-07-11T15:08:20+00:00",
+      "url": "/api/download/ghost/05ed446b-0e92-4672-a7fd-3651a1e7d6d9"
+    },
+    {
+      "player": {
+        "name": "lamaq5",
+        "tag": "$F18 GOAT",
+        "id": "9fccdc8f-6d3d-48cd-bf2c-25ef1399cc66",
+        "zone": {
+          "id": "301e5d59-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Brussel Bruxelles",
+          "flag": "Brussel_Bruxelles",
+          "parent": {
+            "id": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Belgium",
+            "flag": "BEL",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 35,
+      "time": 69849,
+      "score": 69849,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_9fccdc8f-6d3d-48cd-bf2c-25ef1399cc66_(1'9''84).replay.gbx",
+      "timestamp": "2026-07-16T20:21:37+00:00",
+      "url": "/api/download/ghost/663366d5-fef6-467a-8728-eafc7e21abb2"
+    },
+    {
+      "player": {
+        "name": "Elwyn_TM",
+        "tag": "$FFFFR$5FFNT$FFF",
+        "id": "92bbfd88-0636-473a-9188-a05aa8d9e945",
+        "zone": {
+          "id": "301f6969-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Isère",
+          "flag": "Isere",
+          "parent": {
+            "id": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Auvergne-Rhône-Alpes",
+            "flag": "auvergne-rhone-alpes",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 36,
+      "time": 71847,
+      "score": 71847,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_92bbfd88-0636-473a-9188-a05aa8d9e945_(1'11''84).replay.gbx",
+      "timestamp": "2026-07-13T16:13:13+00:00",
+      "url": "/api/download/ghost/8511cb04-1def-41b5-a2da-9700667f8b9e"
+    },
+    {
+      "player": {
+        "name": "VyooZ",
+        "tag": "$F00P$C00I$900W$600O$300!",
+        "id": "1b8c8512-0cc8-4039-a11d-0fa5e6aea9b8",
+        "zone": {
+          "id": "301fa93b-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Nord",
+          "flag": "Nord",
+          "parent": {
+            "id": "301fa812-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Hauts-de-France",
+            "flag": "hauts-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 37,
+      "time": 71881,
+      "score": 71881,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_1b8c8512-0cc8-4039-a11d-0fa5e6aea9b8_(1'11''88).replay.gbx",
+      "timestamp": "2026-07-14T19:37:54+00:00",
+      "url": "/api/download/ghost/a8763bb8-3605-44ba-acfa-b49fba35ea7e"
+    },
+    {
+      "player": {
+        "name": "Negan.Tm",
+        "tag": "$S$O$000|$FF0|$F00|",
+        "id": "e0cffe73-14ba-4a66-ac05-a2e71ad34ff8",
+        "zone": {
+          "id": "301e5de0-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Hainaut",
+          "flag": "Hainaut",
+          "parent": {
+            "id": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Belgium",
+            "flag": "BEL",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 38,
+      "time": 73261,
+      "score": 73261,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_e0cffe73-14ba-4a66-ac05-a2e71ad34ff8_(1'13''26).replay.gbx",
+      "timestamp": "2026-07-16T14:38:39+00:00",
+      "url": "/api/download/ghost/359ea272-ed62-4495-8e4d-a3eddc32f41a"
+    },
+    {
+      "player": {
+        "name": "Hazardu.",
+        "tag": "$FC5W.",
+        "id": "e5a9863b-1844-4436-a8a8-cea583888f8b",
+        "zone": {
+          "id": "301f5723-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Denmark",
+          "flag": "DEN",
+          "parent": {
+            "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Europe",
+            "flag": "europe",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "hazardu",
+            "youtube": "UCK0_d-tsW8k8IJ5CE1dddcg",
+            "twitter": "Hazarduu"
+          }
+        }
+      },
+      "position": 39,
+      "time": 73779,
+      "score": 73779,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_e5a9863b-1844-4436-a8a8-cea583888f8b_(1'13''77).replay.gbx",
+      "timestamp": "2026-07-03T15:48:12+00:00",
+      "url": "/api/download/ghost/07c0e42b-c7aa-44d5-a27f-6090517582c9"
+    },
+    {
+      "player": {
+        "name": "ratz_tm",
+        "tag": "$FC9¬$333SL$009°",
+        "id": "b8b1b9e7-b3b9-498a-b657-3a0bf7807da0",
+        "zone": {
+          "id": "301fa77a-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Vosges",
+          "flag": "Vosges_",
+          "parent": {
+            "id": "301fa0c0-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Grand Est",
+            "flag": "grand-est",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 40,
+      "time": 75674,
+      "score": 75674,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_b8b1b9e7-b3b9-498a-b657-3a0bf7807da0_(1'15''67).replay.gbx",
+      "timestamp": "2026-07-11T14:40:39+00:00",
+      "url": "/api/download/ghost/4034acd1-ae78-4693-a0aa-77b0250789f8"
+    },
+    {
+      "player": {
+        "name": "NOKER1",
+        "tag": "$F00$S",
+        "id": "2dc67de3-5dd3-44a8-8380-10e3ec851c52",
+        "zone": {
+          "id": "30202b1c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Dresden",
+          "flag": "Dresden",
+          "parent": {
+            "id": "30202744-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Sachsen",
+            "flag": "sachsen",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 41,
+      "time": 77304,
+      "score": 77304,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_2dc67de3-5dd3-44a8-8380-10e3ec851c52_(1'17''30).replay.gbx",
+      "timestamp": "2026-07-09T19:28:24+00:00",
+      "url": "/api/download/ghost/6fb3550e-b56f-45ad-8069-89da4b46cc92"
+    },
+    {
+      "player": {
+        "name": "Cocorokot",
+        "tag": "SKY",
+        "id": "40b3ad6d-36a4-43dc-9acc-067f02ab40fb",
+        "zone": {
+          "id": "301f9b8c-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Loiret",
+          "flag": "Loiret",
+          "parent": {
+            "id": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Centre-Val de Loire",
+            "flag": "centre-val-de-loire",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 42,
+      "time": 116564,
+      "score": 116564,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_40b3ad6d-36a4-43dc-9acc-067f02ab40fb_(1'56''56).replay.gbx",
+      "timestamp": "2026-07-18T20:28:11+00:00",
+      "url": "/api/download/ghost/ae324eb7-3ab5-4d0d-9ed4-3edc16ce3e3a"
+    },
+    {
+      "player": {
+        "name": "naelABC",
+        "id": "9dfe4aea-e500-48a2-b8a8-69febd90d186",
+        "zone": {
+          "id": "301fa93b-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Nord",
+          "flag": "Nord",
+          "parent": {
+            "id": "301fa812-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Hauts-de-France",
+            "flag": "hauts-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 43,
+      "time": 137821,
+      "score": 137821,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_9dfe4aea-e500-48a2-b8a8-69febd90d186_(2'17''82).replay.gbx",
+      "timestamp": "2026-07-16T13:06:15+00:00",
+      "url": "/api/download/ghost/3deb1ee1-b182-42bf-9617-bd89d746d49f"
+    },
+    {
+      "player": {
+        "name": "LookBlack72",
+        "tag": "HLF",
+        "id": "493eceda-dff3-4b77-b0d9-70f46ad95f9f",
+        "zone": {
+          "id": "30225cbf-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Andalucía",
+          "flag": "Andalucia",
+          "parent": {
+            "id": "30225b07-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Spain",
+            "flag": "ESP",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 44,
+      "time": 138314,
+      "score": 138314,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_493eceda-dff3-4b77-b0d9-70f46ad95f9f_(2'18''31).replay.gbx",
+      "timestamp": "2026-06-29T14:00:50+00:00",
+      "url": "/api/download/ghost/95428eca-d11a-454f-ad2e-931f07324dba"
+    },
+    {
+      "player": {
+        "name": "Mac-Deluxe",
+        "id": "1fca1349-c121-4bd1-b4e7-d4bd8f52ad1e",
+        "zone": {
+          "id": "301faa64-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Pas-de-Calais",
+          "flag": "Pas-de-Calais",
+          "parent": {
+            "id": "301fa812-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Hauts-de-France",
+            "flag": "hauts-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 45,
+      "time": 242346,
+      "score": 242346,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_1fca1349-c121-4bd1-b4e7-d4bd8f52ad1e_(4'2''34).replay.gbx",
+      "timestamp": "2026-07-19T07:41:22+00:00",
+      "url": "/api/download/ghost/845726cf-1d5e-467c-918a-5a56037ada40"
+    },
+    {
+      "player": {
+        "name": "mrn00d1es",
+        "id": "a13a9753-d2ed-4320-82bc-b3d18334375b",
+        "zone": {
+          "id": "3022ea33-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Oregon",
+          "flag": "Oregon",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 46,
+      "time": 260873,
+      "score": 260873,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_a13a9753-d2ed-4320-82bc-b3d18334375b_(4'20''87).replay.gbx",
+      "timestamp": "2026-07-16T20:52:25+00:00",
+      "url": "/api/download/ghost/c0d14a6e-049d-42d0-a8b6-40f3272256ed"
+    },
+    {
+      "player": {
+        "name": "Stars.TM",
+        "tag": "$S$FFFROTOR",
+        "id": "7983090e-7968-40a7-928f-69564d9f2ab8",
+        "zone": {
+          "id": "302059af-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Indonesia",
+          "flag": "INA",
+          "parent": {
+            "id": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Asia",
+            "flag": "asia",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        }
+      },
+      "position": 47,
+      "time": 380969,
+      "score": 380969,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_7983090e-7968-40a7-928f-69564d9f2ab8_(6'20''96).replay.gbx",
+      "timestamp": "2026-07-14T14:34:31+00:00",
+      "url": "/api/download/ghost/6748d379-0365-40e2-bdd4-24ad357df8eb"
+    },
+    {
+      "player": {
+        "name": "esvalirion",
+        "tag": "$O$B7C5$3D93$D935$D418",
+        "id": "75ffdc83-62bf-47f9-aa8f-66fc85c5a781",
+        "zone": {
+          "id": "8cf7f77c-6025-4e55-af94-4a3b772d11d2",
+          "name": "Москва",
+          "flag": "Moscow",
+          "parent": {
+            "id": "30224326-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Центральный федеральный округ",
+            "flag": "RUS",
+            "parent": {
+              "id": "3022427b-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Russia",
+              "flag": "RUS",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 48,
+      "time": 452984,
+      "score": 452984,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_75ffdc83-62bf-47f9-aa8f-66fc85c5a781_(7'32''98).replay.gbx",
+      "timestamp": "2026-07-03T13:00:59+00:00",
+      "url": "/api/download/ghost/ef04592d-f1c1-4e6f-9ac8-1f72ace4b097"
+    },
+    {
+      "player": {
+        "name": "shinishi95",
+        "id": "38d0f52d-6674-4ac6-888e-19669c3114b8",
+        "zone": {
+          "id": "301faf13-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Val-d'Oise",
+          "flag": "Val-d'Oise",
+          "parent": {
+            "id": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Île-de-France",
+            "flag": "ile-de-france",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 49,
+      "time": 1380829,
+      "score": 1380829,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_38d0f52d-6674-4ac6-888e-19669c3114b8_(23'0''82).replay.gbx",
+      "timestamp": "2026-07-09T18:14:22+00:00",
+      "url": "/api/download/ghost/138c4c9c-917c-459e-8d21-b6b39b6473c3"
+    }
+  ],
+  "playercount": 49,
+  "lockedLeaderboard": false
+}
