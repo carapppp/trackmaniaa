@@ -1,0 +1,109 @@
+name: Import Trackmania records
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  import-records:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer requests
+        run: pip install requests
+
+      - name: Télécharger les classements
+        env:
+          TM_CONTACT: "morin.ant.antoine@gmail.com"
+          TM_DISCORD: "carapp#3169"
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import pathlib
+          import requests
+
+          maps = [
+              {
+                  "name": "Map 1",
+                  "uid": "kkssYXSs5CgM1N7GJSzGpAFkNU2"
+              },
+              {
+                  "name": "Map 2",
+                  "uid": "h1XcmybEaFbE0wbZmsaFZiTPJsg"
+              },
+              {
+                  "name": "Map 3",
+                  "uid": "sFFnx4bf5R2SBWi66p7qRVdbjAj"
+              }
+          ]
+
+          contact = os.environ["TM_CONTACT"]
+          discord = os.environ["TM_DISCORD"]
+
+          headers = {
+              "User-Agent": (
+                  f"Trackmania-RPG-GSheet/1.0 "
+                  f"(purpose: RPG leaderboard import; "
+                  f"contact: {contact}; Discord: {discord})"
+              )
+          }
+
+          output_directory = pathlib.Path("data")
+          output_directory.mkdir(exist_ok=True)
+
+          for map_data in maps:
+              uid = map_data["uid"]
+              name = map_data["name"]
+
+              url = (
+                  "https://trackmania.io/api/leaderboard/map/"
+                  f"{uid}?length=1000"
+              )
+
+              response = requests.get(
+                  url,
+                  headers=headers,
+                  timeout=30
+              )
+
+              print(name, response.status_code)
+              response.raise_for_status()
+
+              data = response.json()
+
+              output_file = output_directory / f"{uid}.json"
+
+              with output_file.open("w", encoding="utf-8") as file:
+                  json.dump(
+                      data,
+                      file,
+                      ensure_ascii=False,
+                      indent=2
+                  )
+          PY
+
+      - name: Enregistrer les fichiers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+
+          if git diff --cached --quiet; then
+            echo "Aucune modification"
+          else
+            git commit -m "Mise à jour des classements Trackmania"
+            git push
+          fi
