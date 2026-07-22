@@ -1472,6 +1472,46 @@
     },
     {
       "player": {
+        "name": "Spinornithorynq",
+        "id": "443c1a50-29fe-4131-aa68-2e4a36e65602",
+        "zone": {
+          "id": "301f6969-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Isère",
+          "flag": "Isere",
+          "parent": {
+            "id": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Auvergne-Rhône-Alpes",
+            "flag": "auvergne-rhone-alpes",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 38,
+      "time": 75374,
+      "score": 75374,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_443c1a50-29fe-4131-aa68-2e4a36e65602_(1'15''37).replay.gbx",
+      "timestamp": "2026-07-22T17:09:45+00:00",
+      "url": "/api/download/ghost/9238cb7a-2c1c-430a-a99f-1bce36b2dc07"
+    },
+    {
+      "player": {
         "name": "Sheetah73",
         "id": "06f312db-8c39-4ae4-a38d-3b649af071ce",
         "zone": {
@@ -1500,7 +1540,7 @@
           }
         }
       },
-      "position": 38,
+      "position": 39,
       "time": 75579,
       "score": 75579,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_06f312db-8c39-4ae4-a38d-3b649af071ce_(1'15''57).replay.gbx",
@@ -1541,7 +1581,7 @@
           "profile": {}
         }
       },
-      "position": 39,
+      "position": 40,
       "time": 75618,
       "score": 75618,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_2dc67de3-5dd3-44a8-8380-10e3ec851c52_(1'15''61).replay.gbx",
@@ -1578,7 +1618,7 @@
           }
         }
       },
-      "position": 40,
+      "position": 41,
       "time": 76638,
       "score": 76638,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_757ee5b4-2b93-4412-9b76-9017c7bfffff_(1'16''63).replay.gbx",
@@ -1615,7 +1655,7 @@
           }
         }
       },
-      "position": 41,
+      "position": 42,
       "time": 76668,
       "score": 76668,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_dd467b49-5cde-4cd7-9c0b-0a8d5c176ee2_(1'16''66).replay.gbx",
@@ -1651,7 +1691,7 @@
           "profile": {}
         }
       },
-      "position": 42,
+      "position": 43,
       "time": 76812,
       "score": 76812,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_27ba557f-8f32-4e63-b6b0-bcf73b080ced_(1'16''81).replay.gbx",
@@ -1682,7 +1722,7 @@
           "profile": {}
         }
       },
-      "position": 43,
+      "position": 44,
       "time": 77104,
       "score": 77104,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_ac6741fa-a227-4702-a501-5b8486dcf268_(1'17''10).replay.gbx",
@@ -1723,7 +1763,7 @@
           "profile": {}
         }
       },
-      "position": 44,
+      "position": 45,
       "time": 77118,
       "score": 77118,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_79992843-b7b4-47cb-a76d-a227978b61a9_(1'17''11).replay.gbx",
@@ -1763,12 +1803,49 @@
           "profile": {}
         }
       },
-      "position": 45,
+      "position": 46,
       "time": 77163,
       "score": 77163,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_6249d3f7-ffea-47ee-9252-33b4d3bfdeb5_(1'17''16).replay.gbx",
       "timestamp": "2026-07-18T12:43:16+00:00",
       "url": "/api/download/ghost/50b78270-ec35-4ce7-af54-797ceb290569"
+    },
+    {
+      "player": {
+        "name": "Finicks",
+        "id": "f71d3a05-dadf-4887-b115-72d964d13b57",
+        "zone": {
+          "id": "301fb654-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Seine-Maritime",
+          "flag": "Seine-Maritime",
+          "parent": {
+            "id": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Normandie",
+            "flag": "normandie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 47,
+      "time": 77289,
+      "score": 77289,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_f71d3a05-dadf-4887-b115-72d964d13b57_(1'17''28).replay.gbx",
+      "timestamp": "2026-07-22T20:51:09+00:00",
+      "url": "/api/download/ghost/a3220442-a8c5-4dce-8451-b62448e7853e"
     },
     {
       "player": {
@@ -1803,7 +1880,7 @@
           "profile": {}
         }
       },
-      "position": 46,
+      "position": 48,
       "time": 77373,
       "score": 77373,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_34c70bbd-dca7-4ce1-a73f-a1209798cfa0_(1'17''37).replay.gbx",
@@ -1839,52 +1916,12 @@
           "profile": {}
         }
       },
-      "position": 47,
+      "position": 49,
       "time": 77388,
       "score": 77388,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_8070c572-771a-44c5-9ba1-19b537ebfbfc_(1'17''38).replay.gbx",
       "timestamp": "2026-07-17T23:11:02+00:00",
       "url": "/api/download/ghost/bbc0d17e-1c9e-402f-a768-dcecbddfe278"
-    },
-    {
-      "player": {
-        "name": "Spinornithorynq",
-        "id": "443c1a50-29fe-4131-aa68-2e4a36e65602",
-        "zone": {
-          "id": "301f6969-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Isère",
-          "flag": "Isere",
-          "parent": {
-            "id": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Auvergne-Rhône-Alpes",
-            "flag": "auvergne-rhone-alpes",
-            "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        },
-        "meta": {
-          "profile": {}
-        }
-      },
-      "position": 48,
-      "time": 77543,
-      "score": 77543,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_443c1a50-29fe-4131-aa68-2e4a36e65602_(1'17''54).replay.gbx",
-      "timestamp": "2026-07-22T16:59:25+00:00",
-      "url": "/api/download/ghost/9238cb7a-2c1c-430a-a99f-1bce36b2dc07"
     },
     {
       "player": {
@@ -1919,7 +1956,7 @@
           "profile": {}
         }
       },
-      "position": 49,
+      "position": 50,
       "time": 77644,
       "score": 77644,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_5b9df153-7cce-4ef6-af67-308d557002eb_(1'17''64).replay.gbx",
@@ -1957,7 +1994,7 @@
           }
         }
       },
-      "position": 50,
+      "position": 51,
       "time": 77794,
       "score": 77794,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_f9467776-7da3-4a4b-a1f5-979c9a98dc79_(1'17''79).replay.gbx",
@@ -1994,7 +2031,7 @@
           }
         }
       },
-      "position": 51,
+      "position": 52,
       "time": 77978,
       "score": 77978,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_41368656-f7a5-4933-9213-791503b6da83_(1'17''97).replay.gbx",
@@ -2032,7 +2069,7 @@
           }
         }
       },
-      "position": 52,
+      "position": 53,
       "time": 78394,
       "score": 78394,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_b8b1b9e7-b3b9-498a-b657-3a0bf7807da0_(1'18''39).replay.gbx",
@@ -2073,7 +2110,7 @@
           "profile": {}
         }
       },
-      "position": 53,
+      "position": 54,
       "time": 78554,
       "score": 78554,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_52673b46-5da3-4716-b5d8-46a64ee3f654_(1'18''55).replay.gbx",
@@ -2116,7 +2153,7 @@
           }
         }
       },
-      "position": 54,
+      "position": 55,
       "time": 79534,
       "score": 79534,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_9cc209ec-8569-4643-b9e0-1546ed9231d1_(1'19''53).replay.gbx",
@@ -2149,7 +2186,7 @@
           }
         }
       },
-      "position": 55,
+      "position": 56,
       "time": 80278,
       "score": 80278,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_9da27c5e-0472-411f-9629-5afb78bd33f2_(1'20''27).replay.gbx",
@@ -2181,7 +2218,7 @@
           }
         }
       },
-      "position": 56,
+      "position": 57,
       "time": 80397,
       "score": 80397,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_6307310f-8a4c-41b5-b24b-5497d7b88183_(1'20''39).replay.gbx",
@@ -2219,7 +2256,7 @@
           }
         }
       },
-      "position": 57,
+      "position": 58,
       "time": 80499,
       "score": 80499,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_92bbfd88-0636-473a-9188-a05aa8d9e945_(1'20''49).replay.gbx",
@@ -2255,7 +2292,7 @@
           "profile": {}
         }
       },
-      "position": 58,
+      "position": 59,
       "time": 80794,
       "score": 80794,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_d5b0e45a-70d1-415c-b451-6b5d36bc7b2a_(1'20''79).replay.gbx",
@@ -2293,7 +2330,7 @@
           }
         }
       },
-      "position": 59,
+      "position": 60,
       "time": 80889,
       "score": 80889,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_1637cf47-6e72-4549-947b-50221f6fde8d_(1'20''88).replay.gbx",
@@ -2336,7 +2373,7 @@
           }
         }
       },
-      "position": 60,
+      "position": 61,
       "time": 81239,
       "score": 81239,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_85e573fd-a0db-4364-8efa-688127e32361_(1'21''23).replay.gbx",
@@ -2372,7 +2409,7 @@
           "profile": {}
         }
       },
-      "position": 61,
+      "position": 62,
       "time": 81344,
       "score": 81344,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_a35556de-af24-42e4-8e19-7fbb7d882afc_(1'21''34).replay.gbx",
@@ -2406,7 +2443,7 @@
           }
         }
       },
-      "position": 62,
+      "position": 63,
       "time": 81519,
       "score": 81519,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_ec4c3c53-161f-4732-b78a-d99b33ae212c_(1'21''51).replay.gbx",
@@ -2444,49 +2481,12 @@
           }
         }
       },
-      "position": 63,
+      "position": 64,
       "time": 81729,
       "score": 81729,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_92efaf8e-3afb-432b-847c-7389165beb22_(1'21''72).replay.gbx",
       "timestamp": "2026-07-12T15:46:27+00:00",
       "url": "/api/download/ghost/a39a3691-7994-4126-9b47-eb69689f37a4"
-    },
-    {
-      "player": {
-        "name": "Finicks",
-        "id": "f71d3a05-dadf-4887-b115-72d964d13b57",
-        "zone": {
-          "id": "301fb654-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Seine-Maritime",
-          "flag": "Seine-Maritime",
-          "parent": {
-            "id": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Normandie",
-            "flag": "normandie",
-            "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        }
-      },
-      "position": 64,
-      "time": 82993,
-      "score": 82993,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_f71d3a05-dadf-4887-b115-72d964d13b57_(1'22''99).replay.gbx",
-      "timestamp": "2026-07-21T11:31:39+00:00",
-      "url": "/api/download/ghost/a3220442-a8c5-4dce-8451-b62448e7853e"
     },
     {
       "player": {
@@ -3845,6 +3845,6 @@
       "url": "/api/download/ghost/7c71b5b1-32f1-41f1-a649-ea50298f13e6"
     }
   ],
-  "playercount": 112,
+  "playercount": 113,
   "lockedLeaderboard": false
 }
