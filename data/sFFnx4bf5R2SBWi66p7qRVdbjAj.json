@@ -1135,6 +1135,38 @@
     },
     {
       "player": {
+        "name": "Devalius",
+        "id": "0a2d4a20-b3de-4464-a342-48b88c33069a",
+        "zone": {
+          "id": "30206a24-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Lazio",
+          "flag": "Lazio",
+          "parent": {
+            "id": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Italy",
+            "flag": "ITA",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 29,
+      "time": 64719,
+      "score": 64719,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_0a2d4a20-b3de-4464-a342-48b88c33069a_(1'4''71).replay.gbx",
+      "timestamp": "2026-07-23T21:39:22+00:00",
+      "url": "/api/download/ghost/fffc4390-88d8-4eea-bacc-4629c92bfaef"
+    },
+    {
+      "player": {
         "name": "Delaweed",
         "tag": "$I$S$080UNITY",
         "id": "3e1e7740-0180-48c8-b1d8-1948698fd379",
@@ -1167,7 +1199,7 @@
           "profile": {}
         }
       },
-      "position": 29,
+      "position": 30,
       "time": 64961,
       "score": 64961,
       "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_3e1e7740-0180-48c8-b1d8-1948698fd379_(1'4''96).replay.gbx",
@@ -1210,7 +1242,7 @@
           }
         }
       },
-      "position": 30,
+      "position": 31,
       "time": 65119,
       "score": 65119,
       "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_94b20751-43e2-4302-a044-3efcf6d939fc_(1'5''11).replay.gbx",
@@ -1246,7 +1278,7 @@
           "profile": {}
         }
       },
-      "position": 31,
+      "position": 32,
       "time": 65630,
       "score": 65630,
       "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_2b63e360-1b21-45c5-9943-fdfb47a24434_(1'5''63).replay.gbx",
@@ -1284,44 +1316,12 @@
           }
         }
       },
-      "position": 32,
+      "position": 33,
       "time": 65733,
       "score": 65733,
       "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_5a5dd7a9-62c6-4f79-9150-4448838b7728_(1'5''73).replay.gbx",
       "timestamp": "2026-07-19T17:03:27+00:00",
       "url": "/api/download/ghost/51565a59-54b6-436c-80ae-aa9449fa1e65"
-    },
-    {
-      "player": {
-        "name": "Devalius",
-        "id": "0a2d4a20-b3de-4464-a342-48b88c33069a",
-        "zone": {
-          "id": "30206a24-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Lazio",
-          "flag": "Lazio",
-          "parent": {
-            "id": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Italy",
-            "flag": "ITA",
-            "parent": {
-              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-              "name": "Europe",
-              "flag": "europe",
-              "parent": {
-                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                "name": "World",
-                "flag": "WOR"
-              }
-            }
-          }
-        }
-      },
-      "position": 33,
-      "time": 66607,
-      "score": 66607,
-      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_0a2d4a20-b3de-4464-a342-48b88c33069a_(1'6''60).replay.gbx",
-      "timestamp": "2026-07-23T21:11:56+00:00",
-      "url": "/api/download/ghost/fffc4390-88d8-4eea-bacc-4629c92bfaef"
     },
     {
       "player": {
