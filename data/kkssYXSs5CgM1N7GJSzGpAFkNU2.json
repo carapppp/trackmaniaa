@@ -347,6 +347,47 @@
     },
     {
       "player": {
+        "name": "KevinStrike_Tm",
+        "tag": "$S$000¬$666MW$000»$I$FFF",
+        "id": "652069fa-48df-4d58-b0c9-d686ef445103",
+        "zone": {
+          "id": "301fde16-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Haute-Garonne",
+          "flag": "Haute-Garonne",
+          "parent": {
+            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Occitanie",
+            "flag": "occitanie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 10,
+      "time": 71367,
+      "score": 71367,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_652069fa-48df-4d58-b0c9-d686ef445103_(1'11''36).replay.gbx",
+      "timestamp": "2026-07-31T18:16:31+00:00",
+      "url": "/api/download/ghost/f998eeb5-ea23-4454-9374-d4347ddda8c5"
+    },
+    {
+      "player": {
         "name": "Natuss.",
         "tag": "$S$139NYX ",
         "id": "0a253017-912f-4fc7-9472-55f8f4fcd464",
@@ -381,7 +422,7 @@
           }
         }
       },
-      "position": 10,
+      "position": 11,
       "time": 71460,
       "score": 71460,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_0a253017-912f-4fc7-9472-55f8f4fcd464_(1'11''46).replay.gbx",
@@ -422,7 +463,7 @@
           "profile": {}
         }
       },
-      "position": 11,
+      "position": 12,
       "time": 71508,
       "score": 71508,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_7a2c71ba-3515-4394-8994-87983c53768b_(1'11''50).replay.gbx",
@@ -463,7 +504,7 @@
           "profile": {}
         }
       },
-      "position": 12,
+      "position": 13,
       "time": 71539,
       "score": 71539,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_679c132e-637f-4960-99d3-026345bbd947_(1'11''53).replay.gbx",
@@ -501,53 +542,12 @@
           }
         }
       },
-      "position": 13,
+      "position": 14,
       "time": 71568,
       "score": 71568,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_e5010c91-a796-4f80-adb1-630e00eed5bf_(1'11''56).replay.gbx",
       "timestamp": "2026-07-12T10:52:00+00:00",
       "url": "/api/download/ghost/40d34a22-c47e-4868-983d-3663f6aa56e5"
-    },
-    {
-      "player": {
-        "name": "KevinStrike_Tm",
-        "tag": "$S$000¬$666MW$000»$I$FFF",
-        "id": "652069fa-48df-4d58-b0c9-d686ef445103",
-        "zone": {
-          "id": "301fde16-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Haute-Garonne",
-          "flag": "Haute-Garonne",
-          "parent": {
-            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Occitanie",
-            "flag": "occitanie",
-            "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        },
-        "meta": {
-          "profile": {}
-        }
-      },
-      "position": 14,
-      "time": 71798,
-      "score": 71798,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_652069fa-48df-4d58-b0c9-d686ef445103_(1'11''79).replay.gbx",
-      "timestamp": "2026-07-11T08:45:51+00:00",
-      "url": "/api/download/ghost/f998eeb5-ea23-4454-9374-d4347ddda8c5"
     },
     {
       "player": {
