@@ -795,6 +795,37 @@
     },
     {
       "player": {
+        "name": "Baupro32",
+        "tag": "$FFFA$6CFR",
+        "id": "80e896a8-531c-4970-94b4-8b970c739044",
+        "zone": {
+          "id": "301e2c9d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Argentina",
+          "flag": "ARG",
+          "parent": {
+            "id": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+            "name": "South America",
+            "flag": "samerica",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 21,
+      "time": 66614,
+      "score": 66614,
+      "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_80e896a8-531c-4970-94b4-8b970c739044_(1'6''61).replay.gbx",
+      "timestamp": "2026-08-01T01:55:16+00:00",
+      "url": "/api/download/ghost/b43319ce-12c2-4c93-b48a-715a99c64754"
+    },
+    {
+      "player": {
         "name": "AsunooTM",
         "tag": "$135¬$666МW$C93»",
         "id": "feffaa6e-6c98-4c96-b23a-c66164c0d961",
@@ -824,7 +855,7 @@
           }
         }
       },
-      "position": 21,
+      "position": 22,
       "time": 66652,
       "score": 66652,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_feffaa6e-6c98-4c96-b23a-c66164c0d961_(1'6''65).replay.gbx",
@@ -867,43 +898,12 @@
           }
         }
       },
-      "position": 22,
+      "position": 23,
       "time": 66683,
       "score": 66683,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_0a253017-912f-4fc7-9472-55f8f4fcd464_(1'6''68).replay.gbx",
       "timestamp": "2026-07-03T15:37:01+00:00",
       "url": "/api/download/ghost/424dd519-3c9d-45f6-8bf3-c14cf4a7ab70"
-    },
-    {
-      "player": {
-        "name": "Baupro32",
-        "tag": "$FFFA$6CFR",
-        "id": "80e896a8-531c-4970-94b4-8b970c739044",
-        "zone": {
-          "id": "301e2c9d-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Argentina",
-          "flag": "ARG",
-          "parent": {
-            "id": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-            "name": "South America",
-            "flag": "samerica",
-            "parent": {
-              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-              "name": "World",
-              "flag": "WOR"
-            }
-          }
-        },
-        "meta": {
-          "profile": {}
-        }
-      },
-      "position": 23,
-      "time": 67695,
-      "score": 67695,
-      "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_80e896a8-531c-4970-94b4-8b970c739044_(1'7''69).replay.gbx",
-      "timestamp": "2026-07-30T23:43:47+00:00",
-      "url": "/api/download/ghost/b43319ce-12c2-4c93-b48a-715a99c64754"
     },
     {
       "player": {
@@ -2070,6 +2070,39 @@
     },
     {
       "player": {
+        "name": "Jarosiw",
+        "tag": "$W$S$0D0SZNIO",
+        "id": "645c90de-643b-4733-8b35-46919f3efd3f",
+        "zone": {
+          "id": "30222424-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Śląskie",
+          "flag": "slaskie",
+          "parent": {
+            "id": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Poland",
+            "flag": "POL",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 54,
+      "time": 73077,
+      "score": 73077,
+      "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_645c90de-643b-4733-8b35-46919f3efd3f_(1'13''7).replay.gbx",
+      "timestamp": "2026-07-31T21:52:59+00:00",
+      "url": "/api/download/ghost/fdf99190-226c-4a83-8bd4-bb00637a0798"
+    },
+    {
+      "player": {
         "name": "AITitch",
         "tag": "$O$W$000L",
         "id": "07819a07-7968-41e6-94be-f2f28b6922eb",
@@ -2104,7 +2137,7 @@
           }
         }
       },
-      "position": 54,
+      "position": 55,
       "time": 73149,
       "score": 73149,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_07819a07-7968-41e6-94be-f2f28b6922eb_(1'13''14).replay.gbx",
@@ -2142,7 +2175,7 @@
           }
         }
       },
-      "position": 55,
+      "position": 56,
       "time": 73203,
       "score": 73203,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_1b8c8512-0cc8-4039-a11d-0fa5e6aea9b8_(1'13''20).replay.gbx",
@@ -2180,7 +2213,7 @@
           }
         }
       },
-      "position": 56,
+      "position": 57,
       "time": 73286,
       "score": 73286,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_3477de7d-17dd-45d7-9fd7-913fbc3e96da_(1'13''28).replay.gbx",
@@ -2221,7 +2254,7 @@
           "profile": {}
         }
       },
-      "position": 57,
+      "position": 58,
       "time": 73643,
       "score": 73643,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_2dc67de3-5dd3-44a8-8380-10e3ec851c52_(1'13''64).replay.gbx",
@@ -2265,7 +2298,7 @@
           }
         }
       },
-      "position": 58,
+      "position": 59,
       "time": 73968,
       "score": 73968,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_0cfaebff-757f-4880-89b0-f5798131268d_(1'13''96).replay.gbx",
@@ -2300,7 +2333,7 @@
           "profile": {}
         }
       },
-      "position": 59,
+      "position": 60,
       "time": 74296,
       "score": 74296,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_8a3246d3-919e-4fb5-81e8-05f32cad5635_(1'14''29).replay.gbx",
@@ -2341,7 +2374,7 @@
           "profile": {}
         }
       },
-      "position": 60,
+      "position": 61,
       "time": 75323,
       "score": 75323,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_661651a4-6a07-4afa-9e10-fa2a22c37529_(1'15''32).replay.gbx",
@@ -2386,7 +2419,7 @@
           }
         }
       },
-      "position": 61,
+      "position": 62,
       "time": 75887,
       "score": 75887,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_97b5dc28-c6b8-49b7-987c-deb071ceac99_(1'15''88).replay.gbx",
@@ -2426,7 +2459,7 @@
           "profile": {}
         }
       },
-      "position": 62,
+      "position": 63,
       "time": 75888,
       "score": 75888,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_34c70bbd-dca7-4ce1-a73f-a1209798cfa0_(1'15''88).replay.gbx",
@@ -2471,7 +2504,7 @@
           }
         }
       },
-      "position": 63,
+      "position": 64,
       "time": 76248,
       "score": 76248,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_f85820ca-7b64-4aea-b2dc-ce22621d4620_(1'16''24).replay.gbx",
@@ -2515,7 +2548,7 @@
           }
         }
       },
-      "position": 64,
+      "position": 65,
       "time": 76416,
       "score": 76416,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_c4c7b097-7bec-4b27-a990-7b3e327db8c2_(1'16''41).replay.gbx",
@@ -2556,7 +2589,7 @@
           "profile": {}
         }
       },
-      "position": 65,
+      "position": 66,
       "time": 76618,
       "score": 76618,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_a879dd6c-a096-4fdd-b8ec-6356e104bac1_(1'16''61).replay.gbx",
@@ -2597,7 +2630,7 @@
           "profile": {}
         }
       },
-      "position": 66,
+      "position": 67,
       "time": 77804,
       "score": 77804,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_52673b46-5da3-4716-b5d8-46a64ee3f654_(1'17''80).replay.gbx",
@@ -2637,7 +2670,7 @@
           "profile": {}
         }
       },
-      "position": 67,
+      "position": 68,
       "time": 78187,
       "score": 78187,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_56538dc9-9c75-481b-bc34-2de44fc23229_(1'18''18).replay.gbx",
@@ -2678,7 +2711,7 @@
           "profile": {}
         }
       },
-      "position": 68,
+      "position": 69,
       "time": 78327,
       "score": 78327,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_e537bb74-13dc-4096-a797-8620f20a04f1_(1'18''32).replay.gbx",
@@ -2716,7 +2749,7 @@
           }
         }
       },
-      "position": 69,
+      "position": 70,
       "time": 78535,
       "score": 78535,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_92bbfd88-0636-473a-9188-a05aa8d9e945_(1'18''53).replay.gbx",
@@ -2756,7 +2789,7 @@
           "profile": {}
         }
       },
-      "position": 70,
+      "position": 71,
       "time": 80535,
       "score": 80535,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_a2e3abb5-d8c3-45f1-9b55-6dbbf04a0d31_(1'20''53).replay.gbx",
@@ -2794,7 +2827,7 @@
           }
         }
       },
-      "position": 71,
+      "position": 72,
       "time": 80685,
       "score": 80685,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_ac879825-78fc-4606-b7a8-aee17eaffa2c_(1'20''68).replay.gbx",
@@ -2831,7 +2864,7 @@
           }
         }
       },
-      "position": 72,
+      "position": 73,
       "time": 81347,
       "score": 81347,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_a033710d-fd62-439e-878e-0fc4b613b686_(1'21''34).replay.gbx",
@@ -2864,45 +2897,12 @@
           }
         }
       },
-      "position": 73,
+      "position": 74,
       "time": 82243,
       "score": 82243,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_c6e68c16-f4d8-42f4-9172-835dac2aa2f5_(1'22''24).replay.gbx",
       "timestamp": "2026-07-22T20:46:03+00:00",
       "url": "/api/download/ghost/c7840015-3dde-47e7-ac49-052f6a38a24d"
-    },
-    {
-      "player": {
-        "name": "Jarosiw",
-        "tag": "$W$S$0D0SZNIO",
-        "id": "645c90de-643b-4733-8b35-46919f3efd3f",
-        "zone": {
-          "id": "30222424-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Śląskie",
-          "flag": "slaskie",
-          "parent": {
-            "id": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Poland",
-            "flag": "POL",
-            "parent": {
-              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-              "name": "Europe",
-              "flag": "europe",
-              "parent": {
-                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                "name": "World",
-                "flag": "WOR"
-              }
-            }
-          }
-        }
-      },
-      "position": 74,
-      "time": 82328,
-      "score": 82328,
-      "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_645c90de-643b-4733-8b35-46919f3efd3f_(1'22''32).replay.gbx",
-      "timestamp": "2026-07-31T21:41:06+00:00",
-      "url": "/api/download/ghost/fdf99190-226c-4a83-8bd4-bb00637a0798"
     },
     {
       "player": {
@@ -3876,6 +3876,6 @@
       "url": "/api/download/ghost/19208a23-4d5b-4679-a5fc-16c848c319d5"
     }
   ],
-  "playercount": 145,
+  "playercount": 147,
   "lockedLeaderboard": false
 }
