@@ -3090,6 +3090,43 @@
     },
     {
       "player": {
+        "name": "DerBR_",
+        "id": "dd8589cd-89a3-4952-b0ed-6cedee600caa",
+        "zone": {
+          "id": "302019b3-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Kaiserslautern",
+          "flag": "Kaiserslautern",
+          "parent": {
+            "id": "30201925-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Rheinland-Pfalz",
+            "flag": "rheinland-pfalz",
+            "parent": {
+              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Germany",
+              "flag": "GER",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 81,
+      "time": 80674,
+      "score": 80674,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_dd8589cd-89a3-4952-b0ed-6cedee600caa_(1'20''67).replay.gbx",
+      "timestamp": "2026-08-01T20:39:33+00:00",
+      "url": "/api/download/ghost/10d1b349-b133-476b-bc4d-cb840cadc629"
+    },
+    {
+      "player": {
         "name": "YesVery17",
         "tag": "$O$12AT$24BM$36CN$48DS$5AEW",
         "id": "d5b0e45a-70d1-415c-b451-6b5d36bc7b2a",
@@ -3117,7 +3154,7 @@
           "profile": {}
         }
       },
-      "position": 81,
+      "position": 82,
       "time": 80794,
       "score": 80794,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_d5b0e45a-70d1-415c-b451-6b5d36bc7b2a_(1'20''79).replay.gbx",
@@ -3155,7 +3192,7 @@
           }
         }
       },
-      "position": 82,
+      "position": 83,
       "time": 80889,
       "score": 80889,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_1637cf47-6e72-4549-947b-50221f6fde8d_(1'20''88).replay.gbx",
@@ -3182,7 +3219,7 @@
           }
         }
       },
-      "position": 83,
+      "position": 84,
       "time": 81054,
       "score": 81054,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_b43c3e98-6e98-4678-97e1-f2ef6af53fb4_(1'21''5).replay.gbx",
@@ -3225,7 +3262,7 @@
           }
         }
       },
-      "position": 84,
+      "position": 85,
       "time": 81239,
       "score": 81239,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_85e573fd-a0db-4364-8efa-688127e32361_(1'21''23).replay.gbx",
@@ -3261,7 +3298,7 @@
           "profile": {}
         }
       },
-      "position": 85,
+      "position": 86,
       "time": 81344,
       "score": 81344,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_a35556de-af24-42e4-8e19-7fbb7d882afc_(1'21''34).replay.gbx",
@@ -3299,7 +3336,7 @@
           }
         }
       },
-      "position": 86,
+      "position": 87,
       "time": 81729,
       "score": 81729,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_92efaf8e-3afb-432b-847c-7389165beb22_(1'21''72).replay.gbx",
@@ -3340,7 +3377,7 @@
           "profile": {}
         }
       },
-      "position": 87,
+      "position": 88,
       "time": 82074,
       "score": 82074,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_e6869546-5724-4267-84a3-76b5bd8aaccb_(1'22''7).replay.gbx",
@@ -3367,7 +3404,7 @@
           }
         }
       },
-      "position": 88,
+      "position": 89,
       "time": 82629,
       "score": 82629,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_bb2303cf-877f-455a-9b98-8f5286d0fd50_(1'22''62).replay.gbx",
@@ -3404,7 +3441,7 @@
           }
         }
       },
-      "position": 89,
+      "position": 90,
       "time": 82668,
       "score": 82668,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_da77cf15-a802-46f5-8a17-98426ac304d3_(1'22''66).replay.gbx",
@@ -3441,7 +3478,7 @@
           }
         }
       },
-      "position": 90,
+      "position": 91,
       "time": 83359,
       "score": 83359,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_73312e84-8ade-421a-9ee1-5abd9b9d5531_(1'23''35).replay.gbx",
@@ -3473,7 +3510,7 @@
           }
         }
       },
-      "position": 91,
+      "position": 92,
       "time": 83418,
       "score": 83418,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_03787a1d-20f3-41ee-8413-4204dbb177fd_(1'23''41).replay.gbx",
@@ -3508,49 +3545,12 @@
           "profile": {}
         }
       },
-      "position": 92,
+      "position": 93,
       "time": 83619,
       "score": 83619,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_aa333b4d-dc30-44f1-abf9-e6c7d2147e2b_(1'23''61).replay.gbx",
       "timestamp": "2026-07-19T17:47:57+00:00",
       "url": "/api/download/ghost/fc56b47b-b09b-4e74-ad9d-75f78f9a3ec9"
-    },
-    {
-      "player": {
-        "name": "DerBR_",
-        "id": "dd8589cd-89a3-4952-b0ed-6cedee600caa",
-        "zone": {
-          "id": "302019b3-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Kaiserslautern",
-          "flag": "Kaiserslautern",
-          "parent": {
-            "id": "30201925-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Rheinland-Pfalz",
-            "flag": "rheinland-pfalz",
-            "parent": {
-              "id": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-              "name": "Germany",
-              "flag": "GER",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        }
-      },
-      "position": 93,
-      "time": 83734,
-      "score": 83734,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_dd8589cd-89a3-4952-b0ed-6cedee600caa_(1'23''73).replay.gbx",
-      "timestamp": "2026-08-01T18:33:50+00:00",
-      "url": "/api/download/ghost/10d1b349-b133-476b-bc4d-cb840cadc629"
     },
     {
       "player": {
@@ -3784,17 +3784,17 @@
         "tag": "$S$O$1BBA$2BCE$3AER$49FO$F80",
         "id": "aa7bfd38-3e75-461b-9e1d-19e30e7f67d3",
         "zone": {
-          "id": "3022bf38-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Indiana",
-          "flag": "Indiana",
+          "id": "302255bf-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Primorska",
+          "flag": "Primorska",
           "parent": {
-            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-            "name": "United States",
-            "flag": "USA",
+            "id": "30225254-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Slovenia",
+            "flag": "SLO",
             "parent": {
-              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-              "name": "North America",
-              "flag": "namerica",
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
               "parent": {
                 "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                 "name": "World",
