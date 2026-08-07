@@ -3588,6 +3588,46 @@
     },
     {
       "player": {
+        "name": "jokertm16",
+        "id": "56538dc9-9c75-481b-bc34-2de44fc23229",
+        "zone": {
+          "id": "301fba2e-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Charente",
+          "flag": "Charente",
+          "parent": {
+            "id": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Nouvelle-Aquitaine",
+            "flag": "nouvelle-aquitaine",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 94,
+      "time": 80529,
+      "score": 80529,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_56538dc9-9c75-481b-bc34-2de44fc23229_(1'20''52).replay.gbx",
+      "timestamp": "2026-08-07T07:46:54+00:00",
+      "url": "/api/download/ghost/115f613f-3db3-4f38-88cc-e51f63e0038f"
+    },
+    {
+      "player": {
         "name": "DerBR_",
         "id": "dd8589cd-89a3-4952-b0ed-6cedee600caa",
         "zone": {
@@ -3616,7 +3656,7 @@
           }
         }
       },
-      "position": 94,
+      "position": 95,
       "time": 80674,
       "score": 80674,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_dd8589cd-89a3-4952-b0ed-6cedee600caa_(1'20''67).replay.gbx",
@@ -3652,7 +3692,7 @@
           "profile": {}
         }
       },
-      "position": 95,
+      "position": 96,
       "time": 80794,
       "score": 80794,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_d5b0e45a-70d1-415c-b451-6b5d36bc7b2a_(1'20''79).replay.gbx",
@@ -3690,7 +3730,7 @@
           }
         }
       },
-      "position": 96,
+      "position": 97,
       "time": 80889,
       "score": 80889,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_1637cf47-6e72-4549-947b-50221f6fde8d_(1'20''88).replay.gbx",
@@ -3727,7 +3767,7 @@
           }
         }
       },
-      "position": 97,
+      "position": 98,
       "time": 80979,
       "score": 80979,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_3edb28f6-2efb-49f6-8be8-af69d6d49b38_(1'20''97).replay.gbx",
@@ -3754,7 +3794,7 @@
           }
         }
       },
-      "position": 98,
+      "position": 99,
       "time": 81054,
       "score": 81054,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_b43c3e98-6e98-4678-97e1-f2ef6af53fb4_(1'21''5).replay.gbx",
@@ -3797,50 +3837,14 @@
           }
         }
       },
-      "position": 99,
+      "position": 100,
       "time": 81239,
       "score": 81239,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_85e573fd-a0db-4364-8efa-688127e32361_(1'21''23).replay.gbx",
       "timestamp": "2026-07-14T13:31:50+00:00",
       "url": "/api/download/ghost/5eeea579-f280-49b9-b26d-71315417bbc4"
-    },
-    {
-      "player": {
-        "name": "JDawgerson",
-        "tag": "$S$O$FC3H$000D",
-        "id": "a35556de-af24-42e4-8e19-7fbb7d882afc",
-        "zone": {
-          "id": "301e728a-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Ontario",
-          "flag": "Ontario",
-          "parent": {
-            "id": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Canada",
-            "flag": "CAN",
-            "parent": {
-              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-              "name": "North America",
-              "flag": "namerica",
-              "parent": {
-                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                "name": "World",
-                "flag": "WOR"
-              }
-            }
-          }
-        },
-        "meta": {
-          "profile": {}
-        }
-      },
-      "position": 100,
-      "time": 81344,
-      "score": 81344,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_a35556de-af24-42e4-8e19-7fbb7d882afc_(1'21''34).replay.gbx",
-      "timestamp": "2026-07-14T05:06:14+00:00",
-      "url": "/api/download/ghost/ca7d4283-84a5-4ced-828e-76b358730a20"
     }
   ],
-  "playercount": 197,
+  "playercount": 198,
   "lockedLeaderboard": false
 }
