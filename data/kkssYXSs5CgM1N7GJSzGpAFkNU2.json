@@ -3717,6 +3717,44 @@
     },
     {
       "player": {
+        "name": "HypnoTerry",
+        "tag": "$F00Q$FFFL$00FZ",
+        "id": "26275827-906e-46ad-827b-27cf9cf8a4e3",
+        "zone": {
+          "id": "301fd541-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Ariège",
+          "flag": "Ariege",
+          "parent": {
+            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Occitanie",
+            "flag": "occitanie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        }
+      },
+      "position": 98,
+      "time": 78939,
+      "score": 78939,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_26275827-906e-46ad-827b-27cf9cf8a4e3_(1'18''93).replay.gbx",
+      "timestamp": "2026-08-23T21:51:06+00:00",
+      "url": "/api/download/ghost/d5ffc798-68b3-4b53-8455-bee2d0f1d272"
+    },
+    {
+      "player": {
         "name": "AjnaTM",
         "tag": "$0FFฟß$000ッ",
         "id": "b8027539-2879-4ad0-814f-f06f62e85a94",
@@ -3749,7 +3787,7 @@
           "profile": {}
         }
       },
-      "position": 98,
+      "position": 99,
       "time": 78949,
       "score": 78949,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_b8027539-2879-4ad0-814f-f06f62e85a94_(1'18''94).replay.gbx",
@@ -3786,56 +3824,14 @@
           }
         }
       },
-      "position": 99,
+      "position": 100,
       "time": 79308,
       "score": 79308,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_6b469d16-ba27-4a57-9209-aba1044164a1_(1'19''30).replay.gbx",
       "timestamp": "2026-08-08T18:26:43+00:00",
       "url": "/api/download/ghost/544b0a1c-ef38-457c-a7a4-b8e98ce69f9b"
-    },
-    {
-      "player": {
-        "name": "blackpulse..",
-        "id": "9cc209ec-8569-4643-b9e0-1546ed9231d1",
-        "zone": {
-          "id": "301fe5d0-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Tarn-et-Garonne",
-          "flag": "Tarn-et-Garonne",
-          "parent": {
-            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Occitanie",
-            "flag": "occitanie",
-            "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        },
-        "meta": {
-          "profile": {
-            "twitch": "lordxelnevark"
-          }
-        }
-      },
-      "position": 100,
-      "time": 79534,
-      "score": 79534,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_9cc209ec-8569-4643-b9e0-1546ed9231d1_(1'19''53).replay.gbx",
-      "timestamp": "2026-07-11T15:23:53+00:00",
-      "url": "/api/download/ghost/2cd74255-df87-4765-9704-273f9aaf8479"
     }
   ],
-  "playercount": 249,
+  "playercount": 252,
   "lockedLeaderboard": false
 }
