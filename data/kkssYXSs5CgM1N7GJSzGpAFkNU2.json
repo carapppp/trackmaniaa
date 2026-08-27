@@ -1795,7 +1795,7 @@
     {
       "player": {
         "name": "Dlgger",
-        "tag": "$F00 HELP",
+        "tag": "$O$S$444GOLEM",
         "id": "2b63e360-1b21-45c5-9943-fdfb47a24434",
         "zone": {
           "id": "301e5de0-7e13-11e8-8060-e284abfd2bc4",
@@ -3830,6 +3830,6 @@
       "url": "/api/download/ghost/89f72bcc-a473-4957-9510-49e18df0024e"
     }
   ],
-  "playercount": 260,
+  "playercount": 261,
   "lockedLeaderboard": false
 }
