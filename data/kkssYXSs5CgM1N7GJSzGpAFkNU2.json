@@ -1220,7 +1220,7 @@
     {
       "player": {
         "name": "Kaziehh",
-        "tag": "$F00N$FFFL$00F2",
+        "tag": "$O$S$00CL$00FE$00CI$00F$00C",
         "id": "5c25cb75-36ea-4cfc-b0ef-0102faa71ab4",
         "zone": {
           "id": "30209e41-7e13-11e8-8060-e284abfd2bc4",
@@ -3831,6 +3831,6 @@
       "url": "/api/download/ghost/7fdcbf79-a24e-4158-bb0c-d3506f47b859"
     }
   ],
-  "playercount": 271,
+  "playercount": 273,
   "lockedLeaderboard": false
 }
