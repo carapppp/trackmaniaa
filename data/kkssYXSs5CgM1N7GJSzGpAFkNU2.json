@@ -1372,6 +1372,7 @@
     {
       "player": {
         "name": "soci__",
+        "tag": "$900←→",
         "id": "e42a3870-8e9c-4994-993c-befa4bacc739",
         "zone": {
           "id": "30222424-7e13-11e8-8060-e284abfd2bc4",
@@ -3695,6 +3696,36 @@
     },
     {
       "player": {
+        "name": "Tidwa_",
+        "id": "261556c5-6640-4531-86e9-f0eb107088e2",
+        "zone": {
+          "id": "302091eb-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Mozambique",
+          "flag": "MOZ",
+          "parent": {
+            "id": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Africa",
+            "flag": "africa",
+            "parent": {
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 98,
+      "time": 77319,
+      "score": 77319,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_261556c5-6640-4531-86e9-f0eb107088e2_(1'17''31).replay.gbx",
+      "timestamp": "2026-09-03T14:21:46+00:00",
+      "url": "/api/download/ghost/8b0bf13d-ff4d-49da-b8d3-aa5d3d0040fb"
+    },
+    {
+      "player": {
         "name": "SirTalyon",
         "tag": "$F70C$FFFO$F70T",
         "id": "c8638cdb-ee49-4873-958b-3a5d80f27815",
@@ -3727,7 +3758,7 @@
           "profile": {}
         }
       },
-      "position": 98,
+      "position": 99,
       "time": 77369,
       "score": 77369,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_c8638cdb-ee49-4873-958b-3a5d80f27815_(1'17''36).replay.gbx",
@@ -3767,50 +3798,14 @@
           "profile": {}
         }
       },
-      "position": 99,
+      "position": 100,
       "time": 77373,
       "score": 77373,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_34c70bbd-dca7-4ce1-a73f-a1209798cfa0_(1'17''37).replay.gbx",
       "timestamp": "2026-07-12T09:41:37+00:00",
       "url": "/api/download/ghost/d279da3f-7250-4cd4-8ff8-1cd5de1a281c"
-    },
-    {
-      "player": {
-        "name": "Sebthao",
-        "tag": "$S$FE8P$FFBE$FFDR$FFDF$FE8'",
-        "id": "8070c572-771a-44c5-9ba1-19b537ebfbfc",
-        "zone": {
-          "id": "301e5fea-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Namur",
-          "flag": "Namur",
-          "parent": {
-            "id": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Belgium",
-            "flag": "BEL",
-            "parent": {
-              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-              "name": "Europe",
-              "flag": "europe",
-              "parent": {
-                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                "name": "World",
-                "flag": "WOR"
-              }
-            }
-          }
-        },
-        "meta": {
-          "profile": {}
-        }
-      },
-      "position": 100,
-      "time": 77388,
-      "score": 77388,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_8070c572-771a-44c5-9ba1-19b537ebfbfc_(1'17''38).replay.gbx",
-      "timestamp": "2026-07-17T23:11:02+00:00",
-      "url": "/api/download/ghost/bbc0d17e-1c9e-402f-a768-dcecbddfe278"
     }
   ],
-  "playercount": 288,
+  "playercount": 291,
   "lockedLeaderboard": false
 }
