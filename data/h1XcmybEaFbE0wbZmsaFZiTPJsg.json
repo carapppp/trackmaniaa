@@ -2696,13 +2696,13 @@
         "tag": "$S $0F06$G3$0F0",
         "id": "f85820ca-7b64-4aea-b2dc-ce22621d4620",
         "zone": {
-          "id": "301f742a-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Puy-de-Dôme",
-          "flag": "Puy-de-Dome",
+          "id": "301fde16-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Haute-Garonne",
+          "flag": "Haute-Garonne",
           "parent": {
-            "id": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Auvergne-Rhône-Alpes",
-            "flag": "auvergne-rhone-alpes",
+            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Occitanie",
+            "flag": "occitanie",
             "parent": {
               "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
               "name": "France",
