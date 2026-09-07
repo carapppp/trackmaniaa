@@ -1690,7 +1690,7 @@
     {
       "player": {
         "name": "BayronTM",
-        "tag": "$C0F»♥«",
+        "tag": "$S$F0F°",
         "id": "e50288e3-43ef-45cd-98ee-4531d10a4a11",
         "zone": {
           "id": "301fdfdd-7e13-11e8-8060-e284abfd2bc4",
@@ -3797,6 +3797,6 @@
       "url": "/api/download/ghost/a3220442-a8c5-4dce-8451-b62448e7853e"
     }
   ],
-  "playercount": 303,
+  "playercount": 309,
   "lockedLeaderboard": false
 }
