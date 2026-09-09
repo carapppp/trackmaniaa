@@ -350,27 +350,17 @@
         "tag": "$36CB$09FRO$0CFS",
         "id": "e5c09419-e727-4740-bd53-cff58a6aba80",
         "zone": {
-          "id": "301f9a60-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Indre-et-Loire",
-          "flag": "Indre-et-Loire",
+          "id": "301e280d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Algeria",
+          "flag": "ALG",
           "parent": {
-            "id": "301f9809-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Centre-Val de Loire",
-            "flag": "centre-val-de-loire",
+            "id": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Africa",
+            "flag": "africa",
             "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
+              "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+              "name": "World",
+              "flag": "WOR"
             }
           }
         },
@@ -3893,6 +3883,6 @@
       "url": "/api/download/ghost/e3b2786e-9c81-4566-a18a-c8044dff04b8"
     }
   ],
-  "playercount": 182,
+  "playercount": 183,
   "lockedLeaderboard": false
 }
