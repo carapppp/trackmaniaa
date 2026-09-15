@@ -650,7 +650,7 @@
     {
       "player": {
         "name": "FateTM.",
-        "tag": "$I$FDBES$FEDCA$000.",
+        "tag": "$001TTM",
         "id": "732aea96-6aee-43d5-9b57-d5e130d6a837",
         "zone": {
           "id": "301f75d1-7e13-11e8-8060-e284abfd2bc4",
@@ -3783,6 +3783,6 @@
       "url": "/api/download/ghost/e35e65d3-f798-48eb-b697-a332ce5a716b"
     }
   ],
-  "playercount": 329,
+  "playercount": 331,
   "lockedLeaderboard": false
 }
