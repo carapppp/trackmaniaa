@@ -3725,6 +3725,46 @@
     },
     {
       "player": {
+        "name": "TheTekator",
+        "id": "b600b93b-dceb-48db-a7fb-0219af14825b",
+        "zone": {
+          "id": "301fb16d-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Calvados",
+          "flag": "Calvados",
+          "parent": {
+            "id": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Normandie",
+            "flag": "normandie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 99,
+      "time": 77018,
+      "score": 77018,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_b600b93b-dceb-48db-a7fb-0219af14825b_(1'17''1).replay.gbx",
+      "timestamp": "2026-09-17T22:23:27+00:00",
+      "url": "/api/download/ghost/de22c217-fa92-4ef8-8913-7d4a9887d0a4"
+    },
+    {
+      "player": {
         "name": "Flonko",
         "tag": "$S$O$FFFB$06F2",
         "id": "6fc2c2ca-2b3a-4290-8451-99ebf58d88ab",
@@ -3757,46 +3797,14 @@
           "profile": {}
         }
       },
-      "position": 99,
+      "position": 100,
       "time": 77033,
       "score": 77033,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_6fc2c2ca-2b3a-4290-8451-99ebf58d88ab_(1'17''3).replay.gbx",
       "timestamp": "2026-08-02T14:51:11+00:00",
       "url": "/api/download/ghost/73099688-24ee-4b07-89ca-2b72a3ba608c"
-    },
-    {
-      "player": {
-        "name": "Banaf_",
-        "id": "046969c5-83bb-4269-87d7-c24df8ec2239",
-        "zone": {
-          "id": "301e5e63-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Liège",
-          "flag": "Liege",
-          "parent": {
-            "id": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Belgium",
-            "flag": "BEL",
-            "parent": {
-              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-              "name": "Europe",
-              "flag": "europe",
-              "parent": {
-                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                "name": "World",
-                "flag": "WOR"
-              }
-            }
-          }
-        }
-      },
-      "position": 100,
-      "time": 77044,
-      "score": 77044,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_046969c5-83bb-4269-87d7-c24df8ec2239_(1'17''4).replay.gbx",
-      "timestamp": "2026-08-04T17:45:31+00:00",
-      "url": "/api/download/ghost/6cd78ab4-fd71-4de3-8faf-65f9772f06f9"
     }
   ],
-  "playercount": 335,
+  "playercount": 337,
   "lockedLeaderboard": false
 }
