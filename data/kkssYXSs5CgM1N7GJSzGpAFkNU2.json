@@ -650,7 +650,7 @@
     {
       "player": {
         "name": "FateTM.",
-        "tag": "$001TTM",
+        "tag": "$I$FDBES$FEDCA$000.",
         "id": "732aea96-6aee-43d5-9b57-d5e130d6a837",
         "zone": {
           "id": "301f75d1-7e13-11e8-8060-e284abfd2bc4",
@@ -3219,7 +3219,6 @@
     {
       "player": {
         "name": "sp4cebart",
-        "tag": "$01FP$04FI$06FW$09FO$0BF!",
         "id": "d6c13665-25cb-46f0-a4e9-9061a9b2f05d",
         "zone": {
           "id": "3020ae6b-7e13-11e8-8060-e284abfd2bc4",
