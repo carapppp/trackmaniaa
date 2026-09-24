@@ -3616,6 +3616,46 @@
     },
     {
       "player": {
+        "name": "Warryan",
+        "id": "acb7510a-ec69-4568-abcc-c60f79698b86",
+        "zone": {
+          "id": "301fcb64-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Landes",
+          "flag": "Landes",
+          "parent": {
+            "id": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Nouvelle-Aquitaine",
+            "flag": "nouvelle-aquitaine",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 96,
+      "time": 76819,
+      "score": 76819,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_acb7510a-ec69-4568-abcc-c60f79698b86_(1'16''81).replay.gbx",
+      "timestamp": "2026-09-24T08:34:22+00:00",
+      "url": "/api/download/ghost/6029cfe2-dddd-4bf1-8e9c-743f4961bbf7"
+    },
+    {
+      "player": {
         "name": "solgaleo66",
         "tag": "$F00P$C00I$900W$600O$300!",
         "id": "c6154481-24aa-44b8-815b-ec45ad4fa6ca",
@@ -3652,7 +3692,7 @@
           }
         }
       },
-      "position": 96,
+      "position": 97,
       "time": 76854,
       "score": 76854,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_c6154481-24aa-44b8-815b-ec45ad4fa6ca_(1'16''85).replay.gbx",
@@ -3679,7 +3719,7 @@
           }
         }
       },
-      "position": 97,
+      "position": 98,
       "time": 76888,
       "score": 76888,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_47818154-b25c-4c24-a587-6c8e4f64ecc7_(1'16''88).replay.gbx",
@@ -3707,7 +3747,7 @@
           }
         }
       },
-      "position": 98,
+      "position": 99,
       "time": 77009,
       "score": 77009,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_1185b303-95a5-4400-92c5-2a68407f93e7_(1'17''0).replay.gbx",
@@ -3743,54 +3783,14 @@
           "profile": {}
         }
       },
-      "position": 99,
+      "position": 100,
       "time": 77013,
       "score": 77013,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_a35556de-af24-42e4-8e19-7fbb7d882afc_(1'17''1).replay.gbx",
       "timestamp": "2026-09-14T06:01:48+00:00",
       "url": "/api/download/ghost/ca7d4283-84a5-4ced-828e-76b358730a20"
-    },
-    {
-      "player": {
-        "name": "TheTekator",
-        "id": "b600b93b-dceb-48db-a7fb-0219af14825b",
-        "zone": {
-          "id": "301fb16d-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Calvados",
-          "flag": "Calvados",
-          "parent": {
-            "id": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Normandie",
-            "flag": "normandie",
-            "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        },
-        "meta": {
-          "profile": {}
-        }
-      },
-      "position": 100,
-      "time": 77018,
-      "score": 77018,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_b600b93b-dceb-48db-a7fb-0219af14825b_(1'17''1).replay.gbx",
-      "timestamp": "2026-09-17T22:23:27+00:00",
-      "url": "/api/download/ghost/de22c217-fa92-4ef8-8913-7d4a9887d0a4"
     }
   ],
-  "playercount": 348,
+  "playercount": 349,
   "lockedLeaderboard": false
 }
