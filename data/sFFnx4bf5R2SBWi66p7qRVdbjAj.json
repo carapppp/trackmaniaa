@@ -2031,6 +2031,38 @@
     },
     {
       "player": {
+        "name": "gabe_tm",
+        "id": "430a4930-ebc5-482f-b5e7-3c3f8fbc3a9b",
+        "zone": {
+          "id": "3022aa3f-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Scotland",
+          "flag": "SCO",
+          "parent": {
+            "id": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United Kingdom",
+            "flag": "GBR",
+            "parent": {
+              "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+              "name": "Europe",
+              "flag": "europe",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 53,
+      "time": 802272,
+      "score": 802272,
+      "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_430a4930-ebc5-482f-b5e7-3c3f8fbc3a9b_(13'22''27).replay.gbx",
+      "timestamp": "2026-09-29T13:59:39+00:00",
+      "url": "/api/download/ghost/c934981c-f7ab-4681-84eb-3587467835f9"
+    },
+    {
+      "player": {
         "name": "shinishi95",
         "id": "38d0f52d-6674-4ac6-888e-19669c3114b8",
         "zone": {
@@ -2059,7 +2091,7 @@
           }
         }
       },
-      "position": 53,
+      "position": 54,
       "time": 1380829,
       "score": 1380829,
       "filename": "Replays\\Downloaded\\c059ad4d-d55b-475a-be00-5b8afb943fe5_38d0f52d-6674-4ac6-888e-19669c3114b8_(23'0''82).replay.gbx",
@@ -2067,6 +2099,6 @@
       "url": "/api/download/ghost/138c4c9c-917c-459e-8d21-b6b39b6473c3"
     }
   ],
-  "playercount": 53,
+  "playercount": 54,
   "lockedLeaderboard": false
 }
