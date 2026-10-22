@@ -3614,6 +3614,47 @@
     },
     {
       "player": {
+        "name": "fobya_",
+        "tag": "$F8FNOT",
+        "id": "d0e09b28-dac4-4c8c-8900-0104493b0a1c",
+        "zone": {
+          "id": "301fa363-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Bas-Rhin",
+          "flag": "Bas-Rhin",
+          "parent": {
+            "id": "301fa0c0-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Grand Est",
+            "flag": "grand-est",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {}
+        }
+      },
+      "position": 96,
+      "time": 76469,
+      "score": 76469,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_d0e09b28-dac4-4c8c-8900-0104493b0a1c_(1'16''46).replay.gbx",
+      "timestamp": "2026-10-21T21:24:19+00:00",
+      "url": "/api/download/ghost/a862d41a-2d12-4f09-9448-6e52fec30d54"
+    },
+    {
+      "player": {
         "name": "elrinnian",
         "id": "57807ec6-7956-4958-952e-073402a1ec53",
         "zone": {
@@ -3637,7 +3678,7 @@
           }
         }
       },
-      "position": 96,
+      "position": 97,
       "time": 76499,
       "score": 76499,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_57807ec6-7956-4958-952e-073402a1ec53_(1'16''49).replay.gbx",
@@ -3677,7 +3718,7 @@
           "profile": {}
         }
       },
-      "position": 97,
+      "position": 98,
       "time": 76529,
       "score": 76529,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_5b9df153-7cce-4ef6-af67-308d557002eb_(1'16''52).replay.gbx",
@@ -3714,7 +3755,7 @@
           }
         }
       },
-      "position": 98,
+      "position": 99,
       "time": 76638,
       "score": 76638,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_757ee5b4-2b93-4412-9b76-9017c7bfffff_(1'16''63).replay.gbx",
@@ -3750,49 +3791,12 @@
           "profile": {}
         }
       },
-      "position": 99,
+      "position": 100,
       "time": 76664,
       "score": 76664,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_09eda55e-2483-40f6-84dc-38043bf7d1f4_(1'16''66).replay.gbx",
       "timestamp": "2026-09-10T19:33:05+00:00",
       "url": "/api/download/ghost/09e869ae-c791-4ac7-bbdf-85b6cabadc83"
-    },
-    {
-      "player": {
-        "name": "leluck64",
-        "id": "dd467b49-5cde-4cd7-9c0b-0a8d5c176ee2",
-        "zone": {
-          "id": "301fcef4-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Pyrénées-Atlantiques",
-          "flag": "Pyrenees-Atlantiques",
-          "parent": {
-            "id": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Nouvelle-Aquitaine",
-            "flag": "nouvelle-aquitaine",
-            "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        }
-      },
-      "position": 100,
-      "time": 76668,
-      "score": 76668,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_dd467b49-5cde-4cd7-9c0b-0a8d5c176ee2_(1'16''66).replay.gbx",
-      "timestamp": "2026-07-15T20:34:50+00:00",
-      "url": "/api/download/ghost/c4ac8a65-6de1-4edc-9dec-4831bc74034e"
     }
   ],
   "playercount": 396,
