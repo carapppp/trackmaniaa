@@ -1984,9 +1984,9 @@
         "tag": "$S$F60Z$F80H$F903",
         "id": "ef5b7471-657a-4190-934c-4267edb6944c",
         "zone": {
-          "id": "30209e41-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Zuid-Holland",
-          "flag": "Zuid-Holland",
+          "id": "30209bf3-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Noord-Holland",
+          "flag": "Noord-Holland",
           "parent": {
             "id": "302094fd-7e13-11e8-8060-e284abfd2bc4",
             "name": "Netherlands",
