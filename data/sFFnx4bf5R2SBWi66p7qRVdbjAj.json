@@ -1962,7 +1962,7 @@
     },
     {
       "player": {
-        "name": "ysmien_onlyy",
+        "name": "Stars.TM",
         "tag": "$FFF$S.$FCFWAV$FFF",
         "id": "7983090e-7968-40a7-928f-69564d9f2ab8",
         "zone": {
@@ -1990,7 +1990,7 @@
     },
     {
       "player": {
-        "name": "esvalirion",
+        "name": "esvalirion.ttv",
         "tag": "$O$B7C5$3D93$D935$D418",
         "id": "75ffdc83-62bf-47f9-aa8f-66fc85c5a781",
         "zone": {
@@ -2019,7 +2019,10 @@
           }
         },
         "meta": {
-          "profile": {}
+          "profile": {
+            "twitch": "esvalirion",
+            "youtube": "@Esvalirion_tm"
+          }
         }
       },
       "position": 52,
