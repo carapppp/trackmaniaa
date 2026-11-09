@@ -1535,7 +1535,6 @@
     {
       "player": {
         "name": "sauuceytm",
-        "tag": "$S$F0§",
         "id": "e42a3870-8e9c-4994-993c-befa4bacc739",
         "zone": {
           "id": "30222424-7e13-11e8-8060-e284abfd2bc4",
@@ -3818,6 +3817,6 @@
       "url": "/api/download/ghost/a862d41a-2d12-4f09-9448-6e52fec30d54"
     }
   ],
-  "playercount": 438,
+  "playercount": 440,
   "lockedLeaderboard": false
 }
