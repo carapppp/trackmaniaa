@@ -1168,7 +1168,7 @@
     {
       "player": {
         "name": "XplosivTM",
-        "tag": "$S$0EDP$1DCI$2CCW$3BBO$4BA!",
+        "tag": "$F00P$C00I$900W$600O$300!",
         "id": "3b48cd0f-1711-439a-9e2a-35f47c2fa24b",
         "zone": {
           "id": "3022a7ed-7e13-11e8-8060-e284abfd2bc4",
@@ -1206,7 +1206,6 @@
     {
       "player": {
         "name": "rozuu..",
-        "tag": "$O$N$000♦$F33R$000Q$F33♦$N$O",
         "id": "788d6532-0871-4f6d-b8be-21e04d81b256",
         "zone": {
           "id": "302013ca-7e13-11e8-8060-e284abfd2bc4",
@@ -3817,6 +3816,6 @@
       "url": "/api/download/ghost/a862d41a-2d12-4f09-9448-6e52fec30d54"
     }
   ],
-  "playercount": 440,
+  "playercount": 442,
   "lockedLeaderboard": false
 }
