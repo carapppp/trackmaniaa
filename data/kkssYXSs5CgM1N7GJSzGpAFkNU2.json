@@ -3504,6 +3504,48 @@
     },
     {
       "player": {
+        "name": "blackpulse..",
+        "id": "9cc209ec-8569-4643-b9e0-1546ed9231d1",
+        "zone": {
+          "id": "301fe5d0-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Tarn-et-Garonne",
+          "flag": "Tarn-et-Garonne",
+          "parent": {
+            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
+            "name": "Occitanie",
+            "flag": "occitanie",
+            "parent": {
+              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+              "name": "France",
+              "flag": "FRA",
+              "parent": {
+                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                "name": "Europe",
+                "flag": "europe",
+                "parent": {
+                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                  "name": "World",
+                  "flag": "WOR"
+                }
+              }
+            }
+          }
+        },
+        "meta": {
+          "profile": {
+            "twitch": "lordxelnevark"
+          }
+        }
+      },
+      "position": 93,
+      "time": 76109,
+      "score": 76109,
+      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_9cc209ec-8569-4643-b9e0-1546ed9231d1_(1'16''10).replay.gbx",
+      "timestamp": "2026-11-17T17:48:53+00:00",
+      "url": "/api/download/ghost/2cd74255-df87-4765-9704-273f9aaf8479"
+    },
+    {
+      "player": {
         "name": "Uffdyr",
         "id": "9424f939-debe-4015-b4d7-5b5fbed10813",
         "zone": {
@@ -3527,7 +3569,7 @@
           }
         }
       },
-      "position": 93,
+      "position": 94,
       "time": 76118,
       "score": 76118,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_9424f939-debe-4015-b4d7-5b5fbed10813_(1'16''11).replay.gbx",
@@ -3565,7 +3607,7 @@
           }
         }
       },
-      "position": 94,
+      "position": 95,
       "time": 76214,
       "score": 76214,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_b236d557-6a44-454d-abe9-8335ababac6b_(1'16''21).replay.gbx",
@@ -3610,7 +3652,7 @@
           }
         }
       },
-      "position": 95,
+      "position": 96,
       "time": 76229,
       "score": 76229,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_e0314e3c-0e30-47f8-aa30-3ea97efe8118_(1'16''22).replay.gbx",
@@ -3651,7 +3693,7 @@
           "profile": {}
         }
       },
-      "position": 96,
+      "position": 97,
       "time": 76244,
       "score": 76244,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_35904509-3f53-457c-9d37-4c401e14b54f_(1'16''24).replay.gbx",
@@ -3684,7 +3726,7 @@
           }
         }
       },
-      "position": 97,
+      "position": 98,
       "time": 76248,
       "score": 76248,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_82ee5a82-88aa-4e50-af77-36f6641f5726_(1'16''24).replay.gbx",
@@ -3722,7 +3764,7 @@
           }
         }
       },
-      "position": 98,
+      "position": 99,
       "time": 76294,
       "score": 76294,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_52397bfb-db69-493c-84a2-9efbabc15ebb_(1'16''29).replay.gbx",
@@ -3760,49 +3802,12 @@
           }
         }
       },
-      "position": 99,
+      "position": 100,
       "time": 76359,
       "score": 76359,
       "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_6f217eab-3325-4ed2-9320-855eff5604be_(1'16''35).replay.gbx",
       "timestamp": "2026-08-21T19:55:08+00:00",
       "url": "/api/download/ghost/930fe0b1-4d00-4269-8a67-8a1f17d41d58"
-    },
-    {
-      "player": {
-        "name": "Chopper358",
-        "id": "15b91570-60fa-41bc-b18e-872cd22d20fb",
-        "zone": {
-          "id": "301f96de-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Ille-et-Vilaine",
-          "flag": "Ille-et-Vilaine",
-          "parent": {
-            "id": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Bretagne",
-            "flag": "Bretagne",
-            "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        }
-      },
-      "position": 100,
-      "time": 76374,
-      "score": 76374,
-      "filename": "Replays\\Downloaded\\51907f15-c8ae-4412-a54d-8b63ac5e31f3_15b91570-60fa-41bc-b18e-872cd22d20fb_(1'16''37).replay.gbx",
-      "timestamp": "2026-08-21T13:11:12+00:00",
-      "url": "/api/download/ghost/3c96aa02-6ad9-47c0-b8c7-eccdf17cbfb1"
     }
   ],
   "playercount": 454,
