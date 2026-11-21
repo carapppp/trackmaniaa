@@ -2363,6 +2363,38 @@
     },
     {
       "player": {
+        "name": "Cooolaidd",
+        "id": "b57117cb-68dc-4beb-961c-9b47f517d54c",
+        "zone": {
+          "id": "3022ed9f-7e13-11e8-8060-e284abfd2bc4",
+          "name": "Texas",
+          "flag": "Texas",
+          "parent": {
+            "id": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+            "name": "United States",
+            "flag": "USA",
+            "parent": {
+              "id": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+              "name": "North America",
+              "flag": "namerica",
+              "parent": {
+                "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                "name": "World",
+                "flag": "WOR"
+              }
+            }
+          }
+        }
+      },
+      "position": 62,
+      "time": 72415,
+      "score": 72415,
+      "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_b57117cb-68dc-4beb-961c-9b47f517d54c_(1'12''41).replay.gbx",
+      "timestamp": "2026-11-21T02:20:46+00:00",
+      "url": "/api/download/ghost/b6c7cbae-27e1-4765-81db-ad424cab635b"
+    },
+    {
+      "player": {
         "name": "icoco123",
         "tag": "$000T$FF0M$F00B",
         "id": "52d76984-7d76-498b-aebb-a6b9c0aa0b6e",
@@ -2390,7 +2422,7 @@
           "profile": {}
         }
       },
-      "position": 62,
+      "position": 63,
       "time": 72534,
       "score": 72534,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_52d76984-7d76-498b-aebb-a6b9c0aa0b6e_(1'12''53).replay.gbx",
@@ -2435,7 +2467,7 @@
           }
         }
       },
-      "position": 63,
+      "position": 64,
       "time": 73067,
       "score": 73067,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_80b2989a-5a17-4d23-b134-46cce29571fa_(1'13''6).replay.gbx",
@@ -2468,7 +2500,7 @@
           }
         }
       },
-      "position": 64,
+      "position": 65,
       "time": 73077,
       "score": 73077,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_645c90de-643b-4733-8b35-46919f3efd3f_(1'13''7).replay.gbx",
@@ -2511,7 +2543,7 @@
           }
         }
       },
-      "position": 65,
+      "position": 66,
       "time": 73149,
       "score": 73149,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_07819a07-7968-41e6-94be-f2f28b6922eb_(1'13''14).replay.gbx",
@@ -2549,7 +2581,7 @@
           }
         }
       },
-      "position": 66,
+      "position": 67,
       "time": 73203,
       "score": 73203,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_1b8c8512-0cc8-4039-a11d-0fa5e6aea9b8_(1'13''20).replay.gbx",
@@ -2587,7 +2619,7 @@
           }
         }
       },
-      "position": 67,
+      "position": 68,
       "time": 73286,
       "score": 73286,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_3477de7d-17dd-45d7-9fd7-913fbc3e96da_(1'13''28).replay.gbx",
@@ -2628,7 +2660,7 @@
           "profile": {}
         }
       },
-      "position": 68,
+      "position": 69,
       "time": 73643,
       "score": 73643,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_2dc67de3-5dd3-44a8-8380-10e3ec851c52_(1'13''64).replay.gbx",
@@ -2669,7 +2701,7 @@
           "profile": {}
         }
       },
-      "position": 69,
+      "position": 70,
       "time": 73939,
       "score": 73939,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_35904509-3f53-457c-9d37-4c401e14b54f_(1'13''93).replay.gbx",
@@ -2713,7 +2745,7 @@
           }
         }
       },
-      "position": 70,
+      "position": 71,
       "time": 73968,
       "score": 73968,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_0cfaebff-757f-4880-89b0-f5798131268d_(1'13''96).replay.gbx",
@@ -2748,7 +2780,7 @@
           "profile": {}
         }
       },
-      "position": 71,
+      "position": 72,
       "time": 74296,
       "score": 74296,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_8a3246d3-919e-4fb5-81e8-05f32cad5635_(1'14''29).replay.gbx",
@@ -2789,7 +2821,7 @@
           "profile": {}
         }
       },
-      "position": 72,
+      "position": 73,
       "time": 75323,
       "score": 75323,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_661651a4-6a07-4afa-9e10-fa2a22c37529_(1'15''32).replay.gbx",
@@ -2834,7 +2866,7 @@
           }
         }
       },
-      "position": 73,
+      "position": 74,
       "time": 75887,
       "score": 75887,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_97b5dc28-c6b8-49b7-987c-deb071ceac99_(1'15''88).replay.gbx",
@@ -2874,7 +2906,7 @@
           "profile": {}
         }
       },
-      "position": 74,
+      "position": 75,
       "time": 75888,
       "score": 75888,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_34c70bbd-dca7-4ce1-a73f-a1209798cfa0_(1'15''88).replay.gbx",
@@ -2919,7 +2951,7 @@
           }
         }
       },
-      "position": 75,
+      "position": 76,
       "time": 76248,
       "score": 76248,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_f85820ca-7b64-4aea-b2dc-ce22621d4620_(1'16''24).replay.gbx",
@@ -2963,7 +2995,7 @@
           }
         }
       },
-      "position": 76,
+      "position": 77,
       "time": 76416,
       "score": 76416,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_c4c7b097-7bec-4b27-a990-7b3e327db8c2_(1'16''41).replay.gbx",
@@ -3004,7 +3036,7 @@
           "profile": {}
         }
       },
-      "position": 77,
+      "position": 78,
       "time": 76618,
       "score": 76618,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_a879dd6c-a096-4fdd-b8ec-6356e104bac1_(1'16''61).replay.gbx",
@@ -3041,7 +3073,7 @@
           }
         }
       },
-      "position": 78,
+      "position": 79,
       "time": 77243,
       "score": 77243,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_deb27af0-2d90-48a5-900b-d763b0ff22db_(1'17''24).replay.gbx",
@@ -3082,7 +3114,7 @@
           "profile": {}
         }
       },
-      "position": 79,
+      "position": 80,
       "time": 77804,
       "score": 77804,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_52673b46-5da3-4716-b5d8-46a64ee3f654_(1'17''80).replay.gbx",
@@ -3122,7 +3154,7 @@
           "profile": {}
         }
       },
-      "position": 80,
+      "position": 81,
       "time": 78187,
       "score": 78187,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_56538dc9-9c75-481b-bc34-2de44fc23229_(1'18''18).replay.gbx",
@@ -3159,7 +3191,7 @@
           }
         }
       },
-      "position": 81,
+      "position": 82,
       "time": 78318,
       "score": 78318,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_94040361-bf07-4698-b2e1-037e4db69166_(1'18''31).replay.gbx",
@@ -3200,7 +3232,7 @@
           "profile": {}
         }
       },
-      "position": 82,
+      "position": 83,
       "time": 78327,
       "score": 78327,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_e537bb74-13dc-4096-a797-8620f20a04f1_(1'18''32).replay.gbx",
@@ -3238,7 +3270,7 @@
           }
         }
       },
-      "position": 83,
+      "position": 84,
       "time": 78379,
       "score": 78379,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_6990d7fd-2079-40db-90e3-4fe4e381b593_(1'18''37).replay.gbx",
@@ -3281,7 +3313,7 @@
           }
         }
       },
-      "position": 84,
+      "position": 85,
       "time": 78522,
       "score": 78522,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_e5da0644-f1cc-4526-a950-c082eeafbb09_(1'18''52).replay.gbx",
@@ -3322,7 +3354,7 @@
           "profile": {}
         }
       },
-      "position": 85,
+      "position": 86,
       "time": 78535,
       "score": 78535,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_92bbfd88-0636-473a-9188-a05aa8d9e945_(1'18''53).replay.gbx",
@@ -3359,7 +3391,7 @@
           }
         }
       },
-      "position": 86,
+      "position": 87,
       "time": 80052,
       "score": 80052,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_ab8295b0-405c-428a-bcc8-0f78d9e8355e_(1'20''5).replay.gbx",
@@ -3394,7 +3426,7 @@
           "profile": {}
         }
       },
-      "position": 87,
+      "position": 88,
       "time": 80248,
       "score": 80248,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_aa333b4d-dc30-44f1-abf9-e6c7d2147e2b_(1'20''24).replay.gbx",
@@ -3434,7 +3466,7 @@
           "profile": {}
         }
       },
-      "position": 88,
+      "position": 89,
       "time": 80535,
       "score": 80535,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_a2e3abb5-d8c3-45f1-9b55-6dbbf04a0d31_(1'20''53).replay.gbx",
@@ -3472,7 +3504,7 @@
           }
         }
       },
-      "position": 89,
+      "position": 90,
       "time": 80685,
       "score": 80685,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_ac879825-78fc-4606-b7a8-aee17eaffa2c_(1'20''68).replay.gbx",
@@ -3510,7 +3542,7 @@
           }
         }
       },
-      "position": 90,
+      "position": 91,
       "time": 81214,
       "score": 81214,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_ebaa4ac0-9f10-4192-bf0e-518061e03412_(1'21''21).replay.gbx",
@@ -3537,7 +3569,7 @@
           }
         }
       },
-      "position": 91,
+      "position": 92,
       "time": 81258,
       "score": 81258,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_db47f193-8df4-4ebc-900c-bc3cb0504c09_(1'21''25).replay.gbx",
@@ -3574,7 +3606,7 @@
           }
         }
       },
-      "position": 92,
+      "position": 93,
       "time": 81347,
       "score": 81347,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_a033710d-fd62-439e-878e-0fc4b613b686_(1'21''34).replay.gbx",
@@ -3611,7 +3643,7 @@
           }
         }
       },
-      "position": 93,
+      "position": 94,
       "time": 81829,
       "score": 81829,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_d6afa85d-62b8-4b69-833b-3d6c7a2fb904_(1'21''82).replay.gbx",
@@ -3644,7 +3676,7 @@
           }
         }
       },
-      "position": 94,
+      "position": 95,
       "time": 82243,
       "score": 82243,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_c6e68c16-f4d8-42f4-9172-835dac2aa2f5_(1'22''24).replay.gbx",
@@ -3682,7 +3714,7 @@
           }
         }
       },
-      "position": 95,
+      "position": 96,
       "time": 82905,
       "score": 82905,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_70b9d4aa-3355-407c-bc79-1ceffe51074c_(1'22''90).replay.gbx",
@@ -3719,7 +3751,7 @@
           }
         }
       },
-      "position": 96,
+      "position": 97,
       "time": 83134,
       "score": 83134,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_0b924ccd-8969-483d-8d56-4954e564f5c4_(1'23''13).replay.gbx",
@@ -3750,7 +3782,7 @@
           "profile": {}
         }
       },
-      "position": 97,
+      "position": 98,
       "time": 83622,
       "score": 83622,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_9561da03-5907-4de8-bae7-6a29a97cbab0_(1'23''62).replay.gbx",
@@ -3791,7 +3823,7 @@
           "profile": {}
         }
       },
-      "position": 98,
+      "position": 99,
       "time": 83672,
       "score": 83672,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_01e8463c-b2cc-4596-8e6b-dbf6b1bce1b1_(1'23''67).replay.gbx",
@@ -3828,59 +3860,14 @@
           }
         }
       },
-      "position": 99,
+      "position": 100,
       "time": 84224,
       "score": 84224,
       "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_fa26bab8-c5f9-4b90-9dfe-bfce5a9c0c62_(1'24''22).replay.gbx",
       "timestamp": "2026-09-20T13:13:06+00:00",
       "url": "/api/download/ghost/855f0e90-cbb6-4658-9e45-38b22222a119"
-    },
-    {
-      "player": {
-        "name": "solgaleo66",
-        "tag": "$F00P$C00I$900W$600O$300!",
-        "id": "c6154481-24aa-44b8-815b-ec45ad4fa6ca",
-        "zone": {
-          "id": "301fe4a5-7e13-11e8-8060-e284abfd2bc4",
-          "name": "Pyrénées-Orientales",
-          "flag": "Pyrenees-Orientales",
-          "parent": {
-            "id": "301fd300-7e13-11e8-8060-e284abfd2bc4",
-            "name": "Occitanie",
-            "flag": "occitanie",
-            "parent": {
-              "id": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-              "name": "France",
-              "flag": "FRA",
-              "parent": {
-                "id": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                "name": "Europe",
-                "flag": "europe",
-                "parent": {
-                  "id": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                  "name": "World",
-                  "flag": "WOR"
-                }
-              }
-            }
-          }
-        },
-        "meta": {
-          "profile": {
-            "twitch": "solgaleo66",
-            "youtube": "@solgaleo66",
-            "twitter": "solgaleo66"
-          }
-        }
-      },
-      "position": 100,
-      "time": 84479,
-      "score": 84479,
-      "filename": "Replays\\Downloaded\\87804802-489f-4d7a-beda-ecb130384989_c6154481-24aa-44b8-815b-ec45ad4fa6ca_(1'24''47).replay.gbx",
-      "timestamp": "2026-11-14T19:56:10+00:00",
-      "url": "/api/download/ghost/e26a997f-1c6b-47ce-86e8-51a03bdebff0"
     }
   ],
-  "playercount": 216,
+  "playercount": 217,
   "lockedLeaderboard": false
 }
